@@ -1,0 +1,2494 @@
+[
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.0,
+    "spectral_efficiency": 0.3333333333333333,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.0,
+    "spectral_efficiency": 0.3333333333333333,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.0,
+    "spectral_efficiency": 0.3333333333333333,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.25,
+    "spectral_efficiency": 0.41666666666666663,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.6,
+    "spectral_efficiency": 0.5333333333333333,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.8333333333333334,
+    "spectral_efficiency": 0.611111111111111,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.8571428571428571,
+    "spectral_efficiency": 0.619047619047619,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.1428571428571428,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0,
+    "spectral_efficiency": 0.6666666666666666,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.125,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1111111111111112,
+    "spectral_efficiency": 0.6666666666666666,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2222222222222223,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2,
+    "spectral_efficiency": 0.6666666666666667,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3636363636363635,
+    "spectral_efficiency": 0.696969696969697,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2727272727272727,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3333333333333333,
+    "spectral_efficiency": 0.6944444444444445,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3333333333333333,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3076923076923077,
+    "spectral_efficiency": 0.6923076923076923,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3846153846153846,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2857142857142858,
+    "spectral_efficiency": 0.7142857142857143,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3571428571428572,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2666666666666666,
+    "spectral_efficiency": 0.7333333333333333,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3333333333333333,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.25,
+    "spectral_efficiency": 0.75,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.3125,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2352941176470589,
+    "spectral_efficiency": 0.7647058823529411,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2941176470588236,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2222222222222223,
+    "spectral_efficiency": 0.7777777777777778,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2777777777777777,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2105263157894737,
+    "spectral_efficiency": 0.7894736842105263,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.263157894736842,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2,
+    "spectral_efficiency": 0.8,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.25,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1904761904761905,
+    "spectral_efficiency": 0.8095238095238095,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2380952380952381,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1363636363636365,
+    "spectral_efficiency": 0.8030303030303031,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2272727272727273,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1304347826086956,
+    "spectral_efficiency": 0.8115942028985508,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2173913043478262,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.125,
+    "spectral_efficiency": 0.8194444444444445,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2083333333333333,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.08,
+    "spectral_efficiency": 0.8133333333333335,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.24,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0769230769230769,
+    "spectral_efficiency": 0.8205128205128206,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2307692307692308,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.037037037037037,
+    "spectral_efficiency": 0.814814814814815,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2592592592592593,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0357142857142858,
+    "spectral_efficiency": 0.8214285714285715,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.25,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0689655172413792,
+    "spectral_efficiency": 0.8275862068965518,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2413793103448276,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0666666666666667,
+    "spectral_efficiency": 0.8333333333333335,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2333333333333334,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.032258064516129,
+    "spectral_efficiency": 0.827956989247312,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2580645161290323,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.03125,
+    "spectral_efficiency": 0.8333333333333335,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.25,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0,
+    "spectral_efficiency": 0.8282828282828285,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2424242424242424,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9705882352941176,
+    "spectral_efficiency": 0.8235294117647061,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2647058823529411,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9714285714285714,
+    "spectral_efficiency": 0.8285714285714287,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2571428571428571,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9444444444444444,
+    "spectral_efficiency": 0.8240740740740743,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.25,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9459459459459459,
+    "spectral_efficiency": 0.828828828828829,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2432432432432432,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9473684210526315,
+    "spectral_efficiency": 0.8333333333333336,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.236842105263158,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9487179487179487,
+    "spectral_efficiency": 0.8376068376068377,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2307692307692308,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.95,
+    "spectral_efficiency": 0.8416666666666668,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.225,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9512195121951219,
+    "spectral_efficiency": 0.845528455284553,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2195121951219512,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9761904761904762,
+    "spectral_efficiency": 0.8492063492063493,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2142857142857142,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 0.9767441860465116,
+    "spectral_efficiency": 0.8449612403100776,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2093023255813953,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0227272727272727,
+    "spectral_efficiency": 0.8484848484848485,
+    "collision_rate_slots": 1.0,
+    "collision_rate_channel_events": 1.2045454545454546,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.0666666666666667,
+    "spectral_efficiency": 0.8518518518518519,
+    "collision_rate_slots": 0.9777777777777777,
+    "collision_rate_channel_events": 1.1777777777777778,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.108695652173913,
+    "spectral_efficiency": 0.855072463768116,
+    "collision_rate_slots": 0.9565217391304348,
+    "collision_rate_channel_events": 1.1521739130434783,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.148936170212766,
+    "spectral_efficiency": 0.8581560283687943,
+    "collision_rate_slots": 0.9361702127659575,
+    "collision_rate_channel_events": 1.127659574468085,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1875,
+    "spectral_efficiency": 0.8611111111111112,
+    "collision_rate_slots": 0.9166666666666666,
+    "collision_rate_channel_events": 1.1041666666666667,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2244897959183674,
+    "spectral_efficiency": 0.8639455782312926,
+    "collision_rate_slots": 0.8979591836734694,
+    "collision_rate_channel_events": 1.0816326530612246,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.26,
+    "spectral_efficiency": 0.8666666666666667,
+    "collision_rate_slots": 0.88,
+    "collision_rate_channel_events": 1.06,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2941176470588236,
+    "spectral_efficiency": 0.869281045751634,
+    "collision_rate_slots": 0.8627450980392157,
+    "collision_rate_channel_events": 1.0392156862745099,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3269230769230769,
+    "spectral_efficiency": 0.8717948717948718,
+    "collision_rate_slots": 0.8461538461538461,
+    "collision_rate_channel_events": 1.0192307692307692,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3396226415094339,
+    "spectral_efficiency": 0.8742138364779874,
+    "collision_rate_slots": 0.8490566037735849,
+    "collision_rate_channel_events": 1.0188679245283019,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3518518518518519,
+    "spectral_efficiency": 0.8765432098765432,
+    "collision_rate_slots": 0.8518518518518519,
+    "collision_rate_channel_events": 1.0185185185185186,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3454545454545455,
+    "spectral_efficiency": 0.8727272727272727,
+    "collision_rate_slots": 0.8545454545454545,
+    "collision_rate_channel_events": 1.018181818181818,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3214285714285714,
+    "spectral_efficiency": 0.8630952380952381,
+    "collision_rate_slots": 0.8571428571428571,
+    "collision_rate_channel_events": 1.0178571428571428,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2982456140350878,
+    "spectral_efficiency": 0.8538011695906433,
+    "collision_rate_slots": 0.8596491228070176,
+    "collision_rate_channel_events": 1.0175438596491229,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2758620689655173,
+    "spectral_efficiency": 0.8448275862068967,
+    "collision_rate_slots": 0.8620689655172413,
+    "collision_rate_channel_events": 1.0172413793103448,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2542372881355932,
+    "spectral_efficiency": 0.8361581920903957,
+    "collision_rate_slots": 0.864406779661017,
+    "collision_rate_channel_events": 1.0169491525423728,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2333333333333334,
+    "spectral_efficiency": 0.827777777777778,
+    "collision_rate_slots": 0.8666666666666667,
+    "collision_rate_channel_events": 1.0166666666666666,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2131147540983607,
+    "spectral_efficiency": 0.8196721311475412,
+    "collision_rate_slots": 0.8688524590163934,
+    "collision_rate_channel_events": 1.0163934426229508,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1935483870967742,
+    "spectral_efficiency": 0.8118279569892476,
+    "collision_rate_slots": 0.8709677419354839,
+    "collision_rate_channel_events": 1.0161290322580645,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2063492063492063,
+    "spectral_efficiency": 0.8148148148148151,
+    "collision_rate_slots": 0.873015873015873,
+    "collision_rate_channel_events": 1.0158730158730158,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.21875,
+    "spectral_efficiency": 0.8177083333333336,
+    "collision_rate_slots": 0.875,
+    "collision_rate_channel_events": 1.015625,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2153846153846153,
+    "spectral_efficiency": 0.8153846153846156,
+    "collision_rate_slots": 0.8769230769230769,
+    "collision_rate_channel_events": 1.0153846153846153,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2121212121212122,
+    "spectral_efficiency": 0.8131313131313133,
+    "collision_rate_slots": 0.8787878787878788,
+    "collision_rate_channel_events": 1.0151515151515151,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2238805970149254,
+    "spectral_efficiency": 0.8159203980099504,
+    "collision_rate_slots": 0.8805970149253731,
+    "collision_rate_channel_events": 1.0149253731343284,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2352941176470589,
+    "spectral_efficiency": 0.8186274509803924,
+    "collision_rate_slots": 0.8823529411764706,
+    "collision_rate_channel_events": 1.0147058823529411,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2318840579710144,
+    "spectral_efficiency": 0.8212560386473432,
+    "collision_rate_slots": 0.8840579710144928,
+    "collision_rate_channel_events": 1.0144927536231885,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2285714285714286,
+    "spectral_efficiency": 0.823809523809524,
+    "collision_rate_slots": 0.8857142857142857,
+    "collision_rate_channel_events": 1.0142857142857142,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2253521126760563,
+    "spectral_efficiency": 0.8262910798122067,
+    "collision_rate_slots": 0.8873239436619719,
+    "collision_rate_channel_events": 1.0140845070422535,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2222222222222223,
+    "spectral_efficiency": 0.8287037037037038,
+    "collision_rate_slots": 0.8888888888888888,
+    "collision_rate_channel_events": 1.0138888888888888,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2191780821917808,
+    "spectral_efficiency": 0.8310502283105025,
+    "collision_rate_slots": 0.8904109589041096,
+    "collision_rate_channel_events": 1.0136986301369864,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2162162162162162,
+    "spectral_efficiency": 0.8333333333333335,
+    "collision_rate_slots": 0.8918918918918919,
+    "collision_rate_channel_events": 1.0135135135135136,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2133333333333334,
+    "spectral_efficiency": 0.8311111111111112,
+    "collision_rate_slots": 0.8933333333333333,
+    "collision_rate_channel_events": 1.0266666666666666,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2236842105263157,
+    "spectral_efficiency": 0.8333333333333335,
+    "collision_rate_slots": 0.8947368421052632,
+    "collision_rate_channel_events": 1.0263157894736843,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2337662337662338,
+    "spectral_efficiency": 0.8354978354978356,
+    "collision_rate_slots": 0.8961038961038961,
+    "collision_rate_channel_events": 1.025974025974026,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2307692307692308,
+    "spectral_efficiency": 0.8333333333333335,
+    "collision_rate_slots": 0.8974358974358975,
+    "collision_rate_channel_events": 1.0256410256410255,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2278481012658229,
+    "spectral_efficiency": 0.8312236286919834,
+    "collision_rate_slots": 0.8987341772151899,
+    "collision_rate_channel_events": 1.0379746835443038,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.225,
+    "spectral_efficiency": 0.8333333333333336,
+    "collision_rate_slots": 0.9,
+    "collision_rate_channel_events": 1.0375,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2222222222222223,
+    "spectral_efficiency": 0.8353909465020578,
+    "collision_rate_slots": 0.9012345679012346,
+    "collision_rate_channel_events": 1.037037037037037,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2195121951219512,
+    "spectral_efficiency": 0.8373983739837401,
+    "collision_rate_slots": 0.9024390243902439,
+    "collision_rate_channel_events": 1.0365853658536586,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.216867469879518,
+    "spectral_efficiency": 0.8393574297188757,
+    "collision_rate_slots": 0.9036144578313253,
+    "collision_rate_channel_events": 1.036144578313253,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2142857142857142,
+    "spectral_efficiency": 0.8412698412698415,
+    "collision_rate_slots": 0.9047619047619048,
+    "collision_rate_channel_events": 1.0357142857142858,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2117647058823529,
+    "spectral_efficiency": 0.843137254901961,
+    "collision_rate_slots": 0.9058823529411765,
+    "collision_rate_channel_events": 1.035294117647059,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2093023255813953,
+    "spectral_efficiency": 0.8449612403100777,
+    "collision_rate_slots": 0.9069767441860465,
+    "collision_rate_channel_events": 1.0348837209302326,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.206896551724138,
+    "spectral_efficiency": 0.8467432950191573,
+    "collision_rate_slots": 0.9080459770114943,
+    "collision_rate_channel_events": 1.0344827586206897,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2045454545454546,
+    "spectral_efficiency": 0.84469696969697,
+    "collision_rate_slots": 0.9090909090909091,
+    "collision_rate_channel_events": 1.0454545454545454,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.202247191011236,
+    "spectral_efficiency": 0.8426966292134834,
+    "collision_rate_slots": 0.9101123595505618,
+    "collision_rate_channel_events": 1.0561797752808988,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2,
+    "spectral_efficiency": 0.8407407407407411,
+    "collision_rate_slots": 0.9111111111111111,
+    "collision_rate_channel_events": 1.0555555555555556,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1978021978021978,
+    "spectral_efficiency": 0.8388278388278393,
+    "collision_rate_slots": 0.9120879120879121,
+    "collision_rate_channel_events": 1.054945054945055,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2065217391304348,
+    "spectral_efficiency": 0.8405797101449279,
+    "collision_rate_slots": 0.9130434782608695,
+    "collision_rate_channel_events": 1.0543478260869565,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2043010752688172,
+    "spectral_efficiency": 0.8387096774193553,
+    "collision_rate_slots": 0.9139784946236559,
+    "collision_rate_channel_events": 1.053763440860215,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1914893617021276,
+    "spectral_efficiency": 0.8333333333333337,
+    "collision_rate_slots": 0.9148936170212766,
+    "collision_rate_channel_events": 1.053191489361702,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1894736842105262,
+    "spectral_efficiency": 0.8315789473684215,
+    "collision_rate_slots": 0.9157894736842105,
+    "collision_rate_channel_events": 1.0526315789473684,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1875,
+    "spectral_efficiency": 0.8298611111111116,
+    "collision_rate_slots": 0.9166666666666666,
+    "collision_rate_channel_events": 1.0520833333333333,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1855670103092784,
+    "spectral_efficiency": 0.8281786941580761,
+    "collision_rate_slots": 0.9175257731958762,
+    "collision_rate_channel_events": 1.0618556701030928,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.183673469387755,
+    "spectral_efficiency": 0.8265306122448985,
+    "collision_rate_slots": 0.9183673469387755,
+    "collision_rate_channel_events": 1.0612244897959184,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1818181818181819,
+    "spectral_efficiency": 0.8249158249158255,
+    "collision_rate_slots": 0.9191919191919192,
+    "collision_rate_channel_events": 1.0707070707070707,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.18,
+    "spectral_efficiency": 0.823333333333334,
+    "collision_rate_slots": 0.92,
+    "collision_rate_channel_events": 1.08,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1782178217821782,
+    "spectral_efficiency": 0.8217821782178225,
+    "collision_rate_slots": 0.9207920792079208,
+    "collision_rate_channel_events": 1.0891089108910892,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1764705882352942,
+    "spectral_efficiency": 0.8235294117647066,
+    "collision_rate_slots": 0.9215686274509803,
+    "collision_rate_channel_events": 1.088235294117647,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.174757281553398,
+    "spectral_efficiency": 0.8252427184466027,
+    "collision_rate_slots": 0.9223300970873787,
+    "collision_rate_channel_events": 1.087378640776699,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1826923076923077,
+    "spectral_efficiency": 0.8269230769230776,
+    "collision_rate_slots": 0.9230769230769231,
+    "collision_rate_channel_events": 1.0865384615384615,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1904761904761905,
+    "spectral_efficiency": 0.8285714285714293,
+    "collision_rate_slots": 0.9238095238095239,
+    "collision_rate_channel_events": 1.0857142857142856,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1981132075471699,
+    "spectral_efficiency": 0.8301886792452837,
+    "collision_rate_slots": 0.9245283018867925,
+    "collision_rate_channel_events": 1.0849056603773586,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.205607476635514,
+    "spectral_efficiency": 0.8317757009345801,
+    "collision_rate_slots": 0.9252336448598131,
+    "collision_rate_channel_events": 1.0841121495327102,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2037037037037037,
+    "spectral_efficiency": 0.8302469135802476,
+    "collision_rate_slots": 0.9259259259259259,
+    "collision_rate_channel_events": 1.0833333333333333,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.201834862385321,
+    "spectral_efficiency": 0.8318042813455665,
+    "collision_rate_slots": 0.926605504587156,
+    "collision_rate_channel_events": 1.0825688073394495,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2,
+    "spectral_efficiency": 0.830303030303031,
+    "collision_rate_slots": 0.9272727272727272,
+    "collision_rate_channel_events": 1.0818181818181818,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1981981981981982,
+    "spectral_efficiency": 0.8288288288288296,
+    "collision_rate_slots": 0.9279279279279279,
+    "collision_rate_channel_events": 1.0810810810810811,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1964285714285714,
+    "spectral_efficiency": 0.8273809523809532,
+    "collision_rate_slots": 0.9285714285714286,
+    "collision_rate_channel_events": 1.0803571428571428,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2035398230088497,
+    "spectral_efficiency": 0.8289085545722722,
+    "collision_rate_slots": 0.9292035398230089,
+    "collision_rate_channel_events": 1.079646017699115,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2017543859649122,
+    "spectral_efficiency": 0.830409356725147,
+    "collision_rate_slots": 0.9298245614035088,
+    "collision_rate_channel_events": 1.0789473684210527,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2,
+    "spectral_efficiency": 0.8318840579710153,
+    "collision_rate_slots": 0.9304347826086956,
+    "collision_rate_channel_events": 1.0782608695652174,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.1982758620689655,
+    "spectral_efficiency": 0.8333333333333341,
+    "collision_rate_slots": 0.9310344827586207,
+    "collision_rate_channel_events": 1.0775862068965518,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.205128205128205,
+    "spectral_efficiency": 0.8347578347578355,
+    "collision_rate_slots": 0.9316239316239316,
+    "collision_rate_channel_events": 1.0769230769230769,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2118644067796611,
+    "spectral_efficiency": 0.8361581920903962,
+    "collision_rate_slots": 0.9322033898305084,
+    "collision_rate_channel_events": 1.076271186440678,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.218487394957983,
+    "spectral_efficiency": 0.837535014005603,
+    "collision_rate_slots": 0.9327731092436975,
+    "collision_rate_channel_events": 1.0756302521008403,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.225,
+    "spectral_efficiency": 0.8388888888888897,
+    "collision_rate_slots": 0.9333333333333333,
+    "collision_rate_channel_events": 1.075,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2314049586776858,
+    "spectral_efficiency": 0.8402203856749318,
+    "collision_rate_slots": 0.9338842975206612,
+    "collision_rate_channel_events": 1.0743801652892562,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2459016393442623,
+    "spectral_efficiency": 0.8415300546448095,
+    "collision_rate_slots": 0.9344262295081968,
+    "collision_rate_channel_events": 1.0737704918032787,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2601626016260163,
+    "spectral_efficiency": 0.8428184281842825,
+    "collision_rate_slots": 0.9349593495934959,
+    "collision_rate_channel_events": 1.0731707317073171,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2741935483870968,
+    "spectral_efficiency": 0.844086021505377,
+    "collision_rate_slots": 0.9354838709677419,
+    "collision_rate_channel_events": 1.0725806451612903,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.288,
+    "spectral_efficiency": 0.845333333333334,
+    "collision_rate_slots": 0.936,
+    "collision_rate_channel_events": 1.072,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3015873015873016,
+    "spectral_efficiency": 0.8465608465608473,
+    "collision_rate_slots": 0.9365079365079365,
+    "collision_rate_channel_events": 1.0714285714285714,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3070866141732282,
+    "spectral_efficiency": 0.8477690288713918,
+    "collision_rate_slots": 0.937007874015748,
+    "collision_rate_channel_events": 1.0708661417322836,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3046875,
+    "spectral_efficiency": 0.8463541666666674,
+    "collision_rate_slots": 0.9375,
+    "collision_rate_channel_events": 1.0703125,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.302325581395349,
+    "spectral_efficiency": 0.8449612403100782,
+    "collision_rate_slots": 0.937984496124031,
+    "collision_rate_channel_events": 1.069767441860465,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.3,
+    "spectral_efficiency": 0.8435897435897444,
+    "collision_rate_slots": 0.9384615384615385,
+    "collision_rate_channel_events": 1.0692307692307692,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.297709923664122,
+    "spectral_efficiency": 0.8422391857506369,
+    "collision_rate_slots": 0.9389312977099237,
+    "collision_rate_channel_events": 1.0687022900763359,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2954545454545454,
+    "spectral_efficiency": 0.8409090909090917,
+    "collision_rate_slots": 0.9393939393939394,
+    "collision_rate_channel_events": 1.0681818181818181,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2932330827067668,
+    "spectral_efficiency": 0.8395989974937352,
+    "collision_rate_slots": 0.9398496240601504,
+    "collision_rate_channel_events": 1.0676691729323309,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.291044776119403,
+    "spectral_efficiency": 0.8383084577114437,
+    "collision_rate_slots": 0.9402985074626866,
+    "collision_rate_channel_events": 1.0671641791044777,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.288888888888889,
+    "spectral_efficiency": 0.837037037037038,
+    "collision_rate_slots": 0.9407407407407408,
+    "collision_rate_channel_events": 1.0666666666666667,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.286764705882353,
+    "spectral_efficiency": 0.8357843137254912,
+    "collision_rate_slots": 0.9411764705882353,
+    "collision_rate_channel_events": 1.0661764705882353,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2846715328467153,
+    "spectral_efficiency": 0.8369829683698307,
+    "collision_rate_slots": 0.9416058394160584,
+    "collision_rate_channel_events": 1.0656934306569343,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2826086956521738,
+    "spectral_efficiency": 0.8381642512077304,
+    "collision_rate_slots": 0.9420289855072463,
+    "collision_rate_channel_events": 1.065217391304348,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2805755395683454,
+    "spectral_efficiency": 0.8393285371702648,
+    "collision_rate_slots": 0.9424460431654677,
+    "collision_rate_channel_events": 1.064748201438849,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2785714285714285,
+    "spectral_efficiency": 0.8404761904761914,
+    "collision_rate_slots": 0.9428571428571428,
+    "collision_rate_channel_events": 1.0642857142857143,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2695035460992907,
+    "spectral_efficiency": 0.8392434988179679,
+    "collision_rate_slots": 0.9432624113475178,
+    "collision_rate_channel_events": 1.0638297872340425,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2605633802816902,
+    "spectral_efficiency": 0.8380281690140855,
+    "collision_rate_slots": 0.9436619718309859,
+    "collision_rate_channel_events": 1.0633802816901408,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2517482517482517,
+    "spectral_efficiency": 0.8368298368298378,
+    "collision_rate_slots": 0.9440559440559441,
+    "collision_rate_channel_events": 1.062937062937063,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2569444444444444,
+    "spectral_efficiency": 0.837962962962964,
+    "collision_rate_slots": 0.9375,
+    "collision_rate_channel_events": 1.0555555555555556,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2689655172413794,
+    "spectral_efficiency": 0.8390804597701159,
+    "collision_rate_slots": 0.9379310344827586,
+    "collision_rate_channel_events": 1.0551724137931036,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2808219178082192,
+    "spectral_efficiency": 0.8401826484018274,
+    "collision_rate_slots": 0.9383561643835616,
+    "collision_rate_channel_events": 1.0547945205479452,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2925170068027212,
+    "spectral_efficiency": 0.8412698412698423,
+    "collision_rate_slots": 0.9387755102040817,
+    "collision_rate_channel_events": 1.054421768707483,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2905405405405406,
+    "spectral_efficiency": 0.8400900900900912,
+    "collision_rate_slots": 0.9391891891891891,
+    "collision_rate_channel_events": 1.054054054054054,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2885906040268456,
+    "spectral_efficiency": 0.8389261744966453,
+    "collision_rate_slots": 0.9395973154362416,
+    "collision_rate_channel_events": 1.0536912751677852,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2866666666666666,
+    "spectral_efficiency": 0.8377777777777788,
+    "collision_rate_slots": 0.94,
+    "collision_rate_channel_events": 1.0533333333333332,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2847682119205297,
+    "spectral_efficiency": 0.8366445916114801,
+    "collision_rate_slots": 0.9403973509933775,
+    "collision_rate_channel_events": 1.0529801324503312,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2828947368421053,
+    "spectral_efficiency": 0.8355263157894748,
+    "collision_rate_slots": 0.9407894736842105,
+    "collision_rate_channel_events": 1.0526315789473684,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2810457516339868,
+    "spectral_efficiency": 0.8344226579520708,
+    "collision_rate_slots": 0.9411764705882353,
+    "collision_rate_channel_events": 1.0522875816993464,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2792207792207793,
+    "spectral_efficiency": 0.8333333333333345,
+    "collision_rate_slots": 0.9415584415584416,
+    "collision_rate_channel_events": 1.051948051948052,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2774193548387096,
+    "spectral_efficiency": 0.8344086021505388,
+    "collision_rate_slots": 0.9419354838709677,
+    "collision_rate_channel_events": 1.0516129032258064,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2756410256410255,
+    "spectral_efficiency": 0.8354700854700866,
+    "collision_rate_slots": 0.9423076923076923,
+    "collision_rate_channel_events": 1.0512820512820513,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2738853503184713,
+    "spectral_efficiency": 0.8365180467091307,
+    "collision_rate_slots": 0.9426751592356688,
+    "collision_rate_channel_events": 1.0509554140127388,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2721518987341771,
+    "spectral_efficiency": 0.8375527426160349,
+    "collision_rate_slots": 0.9430379746835443,
+    "collision_rate_channel_events": 1.0506329113924051,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.270440251572327,
+    "spectral_efficiency": 0.838574423480085,
+    "collision_rate_slots": 0.9433962264150944,
+    "collision_rate_channel_events": 1.050314465408805,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.26875,
+    "spectral_efficiency": 0.8395833333333345,
+    "collision_rate_slots": 0.94375,
+    "collision_rate_channel_events": 1.05,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2670807453416149,
+    "spectral_efficiency": 0.8405797101449286,
+    "collision_rate_slots": 0.9440993788819876,
+    "collision_rate_channel_events": 1.049689440993789,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2654320987654322,
+    "spectral_efficiency": 0.8415637860082316,
+    "collision_rate_slots": 0.9444444444444444,
+    "collision_rate_channel_events": 1.0493827160493827,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2638036809815951,
+    "spectral_efficiency": 0.8425357873210645,
+    "collision_rate_slots": 0.9447852760736196,
+    "collision_rate_channel_events": 1.049079754601227,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2682926829268293,
+    "spectral_efficiency": 0.8434959349593507,
+    "collision_rate_slots": 0.9451219512195121,
+    "collision_rate_channel_events": 1.048780487804878,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2727272727272727,
+    "spectral_efficiency": 0.8444444444444456,
+    "collision_rate_slots": 0.9454545454545454,
+    "collision_rate_channel_events": 1.0484848484848486,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2710843373493976,
+    "spectral_efficiency": 0.8433734939759047,
+    "collision_rate_slots": 0.9457831325301205,
+    "collision_rate_channel_events": 1.0481927710843373,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2634730538922156,
+    "spectral_efficiency": 0.8403193612774462,
+    "collision_rate_slots": 0.9461077844311377,
+    "collision_rate_channel_events": 1.0479041916167664,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2678571428571428,
+    "spectral_efficiency": 0.8392857142857153,
+    "collision_rate_slots": 0.9404761904761905,
+    "collision_rate_channel_events": 1.0416666666666667,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.272189349112426,
+    "spectral_efficiency": 0.8382642998027623,
+    "collision_rate_slots": 0.9349112426035503,
+    "collision_rate_channel_events": 1.0355029585798816,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2705882352941176,
+    "spectral_efficiency": 0.8352941176470599,
+    "collision_rate_slots": 0.9294117647058824,
+    "collision_rate_channel_events": 1.0294117647058822,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2690058479532165,
+    "spectral_efficiency": 0.83430799220273,
+    "collision_rate_slots": 0.9239766081871345,
+    "collision_rate_channel_events": 1.023391812865497,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2674418604651163,
+    "spectral_efficiency": 0.8333333333333343,
+    "collision_rate_slots": 0.9186046511627907,
+    "collision_rate_channel_events": 1.0174418604651163,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2658959537572254,
+    "spectral_efficiency": 0.8323699421965326,
+    "collision_rate_slots": 0.9132947976878613,
+    "collision_rate_channel_events": 1.0115606936416186,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.264367816091954,
+    "spectral_efficiency": 0.8314176245210736,
+    "collision_rate_slots": 0.9080459770114943,
+    "collision_rate_channel_events": 1.0057471264367817,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.262857142857143,
+    "spectral_efficiency": 0.8304761904761911,
+    "collision_rate_slots": 0.9028571428571428,
+    "collision_rate_channel_events": 1.0,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2613636363636365,
+    "spectral_efficiency": 0.8295454545454551,
+    "collision_rate_slots": 0.8977272727272727,
+    "collision_rate_channel_events": 0.9943181818181818,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.265536723163842,
+    "spectral_efficiency": 0.8305084745762719,
+    "collision_rate_slots": 0.8926553672316384,
+    "collision_rate_channel_events": 0.9887005649717514,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2696629213483146,
+    "spectral_efficiency": 0.831460674157304,
+    "collision_rate_slots": 0.8876404494382022,
+    "collision_rate_channel_events": 0.9831460674157303,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2737430167597765,
+    "spectral_efficiency": 0.8305400372439484,
+    "collision_rate_slots": 0.88268156424581,
+    "collision_rate_channel_events": 0.9776536312849162,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2722222222222221,
+    "spectral_efficiency": 0.8277777777777784,
+    "collision_rate_slots": 0.8777777777777778,
+    "collision_rate_channel_events": 0.9722222222222222,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.270718232044199,
+    "spectral_efficiency": 0.8268876611418053,
+    "collision_rate_slots": 0.8784530386740331,
+    "collision_rate_channel_events": 0.9723756906077348,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2747252747252746,
+    "spectral_efficiency": 0.8278388278388285,
+    "collision_rate_slots": 0.8736263736263736,
+    "collision_rate_channel_events": 0.967032967032967,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.273224043715847,
+    "spectral_efficiency": 0.8269581056466307,
+    "collision_rate_slots": 0.8743169398907104,
+    "collision_rate_channel_events": 0.9672131147540983,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2771739130434783,
+    "spectral_efficiency": 0.8278985507246382,
+    "collision_rate_slots": 0.8695652173913043,
+    "collision_rate_channel_events": 0.9619565217391305,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2756756756756757,
+    "spectral_efficiency": 0.8270270270270275,
+    "collision_rate_slots": 0.8702702702702703,
+    "collision_rate_channel_events": 0.9621621621621622,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2741935483870968,
+    "spectral_efficiency": 0.8261648745519717,
+    "collision_rate_slots": 0.8709677419354839,
+    "collision_rate_channel_events": 0.9623655913978495,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2727272727272727,
+    "spectral_efficiency": 0.8253119429590021,
+    "collision_rate_slots": 0.8716577540106952,
+    "collision_rate_channel_events": 0.9625668449197861,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2712765957446808,
+    "spectral_efficiency": 0.8262411347517734,
+    "collision_rate_slots": 0.8723404255319149,
+    "collision_rate_channel_events": 0.9627659574468085,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2698412698412698,
+    "spectral_efficiency": 0.8271604938271608,
+    "collision_rate_slots": 0.873015873015873,
+    "collision_rate_channel_events": 0.9629629629629629,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.268421052631579,
+    "spectral_efficiency": 0.8280701754385968,
+    "collision_rate_slots": 0.8736842105263158,
+    "collision_rate_channel_events": 0.9631578947368421,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2670157068062826,
+    "spectral_efficiency": 0.8272251308900527,
+    "collision_rate_slots": 0.8743455497382199,
+    "collision_rate_channel_events": 0.9633507853403142,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.265625,
+    "spectral_efficiency": 0.8263888888888892,
+    "collision_rate_slots": 0.875,
+    "collision_rate_channel_events": 0.9635416666666666,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2642487046632125,
+    "spectral_efficiency": 0.825561312607945,
+    "collision_rate_slots": 0.8756476683937824,
+    "collision_rate_channel_events": 0.9637305699481865,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2628865979381443,
+    "spectral_efficiency": 0.8247422680412373,
+    "collision_rate_slots": 0.8762886597938144,
+    "collision_rate_channel_events": 0.9639175257731959,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2615384615384615,
+    "spectral_efficiency": 0.823931623931624,
+    "collision_rate_slots": 0.8769230769230769,
+    "collision_rate_channel_events": 0.9641025641025641,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.260204081632653,
+    "spectral_efficiency": 0.8231292517006803,
+    "collision_rate_slots": 0.8775510204081632,
+    "collision_rate_channel_events": 0.9642857142857143,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.263959390862944,
+    "spectral_efficiency": 0.8240270727580373,
+    "collision_rate_slots": 0.8781725888324873,
+    "collision_rate_channel_events": 0.9644670050761421,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2626262626262625,
+    "spectral_efficiency": 0.8249158249158249,
+    "collision_rate_slots": 0.8787878787878788,
+    "collision_rate_channel_events": 0.9646464646464646,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2613065326633166,
+    "spectral_efficiency": 0.8257956448911223,
+    "collision_rate_slots": 0.8793969849246231,
+    "collision_rate_channel_events": 0.964824120603015,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.26,
+    "spectral_efficiency": 0.8266666666666667,
+    "collision_rate_slots": 0.88,
+    "collision_rate_channel_events": 0.965,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2587064676616915,
+    "spectral_efficiency": 0.8275290215588723,
+    "collision_rate_slots": 0.8805970149253731,
+    "collision_rate_channel_events": 0.9651741293532339,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2574257425742574,
+    "spectral_efficiency": 0.8283828382838284,
+    "collision_rate_slots": 0.8811881188118812,
+    "collision_rate_channel_events": 0.9653465346534653,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.251231527093596,
+    "spectral_efficiency": 0.8275862068965517,
+    "collision_rate_slots": 0.8817733990147784,
+    "collision_rate_channel_events": 0.9655172413793104,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2549019607843137,
+    "spectral_efficiency": 0.8284313725490197,
+    "collision_rate_slots": 0.8823529411764706,
+    "collision_rate_channel_events": 0.9656862745098039,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2536585365853659,
+    "spectral_efficiency": 0.8292682926829268,
+    "collision_rate_slots": 0.8829268292682927,
+    "collision_rate_channel_events": 0.9658536585365853,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2524271844660195,
+    "spectral_efficiency": 0.8300970873786407,
+    "collision_rate_slots": 0.883495145631068,
+    "collision_rate_channel_events": 0.9660194174757282,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.251207729468599,
+    "spectral_efficiency": 0.8309178743961353,
+    "collision_rate_slots": 0.8840579710144928,
+    "collision_rate_channel_events": 0.966183574879227,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.25,
+    "spectral_efficiency": 0.8317307692307693,
+    "collision_rate_slots": 0.8846153846153846,
+    "collision_rate_channel_events": 0.9663461538461539,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2488038277511961,
+    "spectral_efficiency": 0.8325358851674641,
+    "collision_rate_slots": 0.8851674641148325,
+    "collision_rate_channel_events": 0.9665071770334929,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2476190476190476,
+    "spectral_efficiency": 0.8333333333333334,
+    "collision_rate_slots": 0.8857142857142857,
+    "collision_rate_channel_events": 0.9666666666666667,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2464454976303319,
+    "spectral_efficiency": 0.8341232227488151,
+    "collision_rate_slots": 0.8862559241706162,
+    "collision_rate_channel_events": 0.966824644549763,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.25,
+    "spectral_efficiency": 0.8349056603773585,
+    "collision_rate_slots": 0.8867924528301887,
+    "collision_rate_channel_events": 0.9669811320754716,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2535211267605635,
+    "spectral_efficiency": 0.8341158059467918,
+    "collision_rate_slots": 0.8826291079812206,
+    "collision_rate_channel_events": 0.9624413145539906,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2523364485981308,
+    "spectral_efficiency": 0.8333333333333333,
+    "collision_rate_slots": 0.883177570093458,
+    "collision_rate_channel_events": 0.9626168224299065,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2465116279069768,
+    "spectral_efficiency": 0.8325581395348836,
+    "collision_rate_slots": 0.8837209302325582,
+    "collision_rate_channel_events": 0.9674418604651163,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2407407407407407,
+    "spectral_efficiency": 0.8317901234567899,
+    "collision_rate_slots": 0.8842592592592593,
+    "collision_rate_channel_events": 0.9722222222222222,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.23963133640553,
+    "spectral_efficiency": 0.8325652841781872,
+    "collision_rate_slots": 0.8847926267281107,
+    "collision_rate_channel_events": 0.9723502304147466,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.238532110091743,
+    "spectral_efficiency": 0.8333333333333331,
+    "collision_rate_slots": 0.8853211009174312,
+    "collision_rate_channel_events": 0.9724770642201835,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2328767123287672,
+    "spectral_efficiency": 0.8325722983257228,
+    "collision_rate_slots": 0.8858447488584474,
+    "collision_rate_channel_events": 0.9771689497716894,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.231818181818182,
+    "spectral_efficiency": 0.8333333333333331,
+    "collision_rate_slots": 0.8863636363636364,
+    "collision_rate_channel_events": 0.9772727272727273,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2262443438914028,
+    "spectral_efficiency": 0.8325791855203617,
+    "collision_rate_slots": 0.8868778280542986,
+    "collision_rate_channel_events": 0.9819004524886877,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2252252252252251,
+    "spectral_efficiency": 0.833333333333333,
+    "collision_rate_slots": 0.8873873873873874,
+    "collision_rate_channel_events": 0.9819819819819819,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2242152466367713,
+    "spectral_efficiency": 0.834080717488789,
+    "collision_rate_slots": 0.8878923766816144,
+    "collision_rate_channel_events": 0.9820627802690582,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2276785714285714,
+    "spectral_efficiency": 0.8348214285714283,
+    "collision_rate_slots": 0.8883928571428571,
+    "collision_rate_channel_events": 0.9821428571428571,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2266666666666666,
+    "spectral_efficiency": 0.8340740740740737,
+    "collision_rate_slots": 0.8888888888888888,
+    "collision_rate_channel_events": 0.9822222222222222,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2256637168141593,
+    "spectral_efficiency": 0.833333333333333,
+    "collision_rate_slots": 0.8893805309734514,
+    "collision_rate_channel_events": 0.9823008849557522,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.224669603524229,
+    "spectral_efficiency": 0.8325991189427309,
+    "collision_rate_slots": 0.8898678414096917,
+    "collision_rate_channel_events": 0.9823788546255506,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2236842105263157,
+    "spectral_efficiency": 0.8318713450292393,
+    "collision_rate_slots": 0.8903508771929824,
+    "collision_rate_channel_events": 0.9824561403508771,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2270742358078603,
+    "spectral_efficiency": 0.8326055312954872,
+    "collision_rate_slots": 0.8908296943231441,
+    "collision_rate_channel_events": 0.982532751091703,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2304347826086957,
+    "spectral_efficiency": 0.8333333333333329,
+    "collision_rate_slots": 0.8913043478260869,
+    "collision_rate_channel_events": 0.9826086956521739,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2294372294372293,
+    "spectral_efficiency": 0.8326118326118321,
+    "collision_rate_slots": 0.8917748917748918,
+    "collision_rate_channel_events": 0.9826839826839827,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.228448275862069,
+    "spectral_efficiency": 0.8333333333333329,
+    "collision_rate_slots": 0.8922413793103449,
+    "collision_rate_channel_events": 0.9827586206896551,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2274678111587982,
+    "spectral_efficiency": 0.8340486409155933,
+    "collision_rate_slots": 0.8927038626609443,
+    "collision_rate_channel_events": 0.9828326180257511,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2264957264957266,
+    "spectral_efficiency": 0.8347578347578343,
+    "collision_rate_slots": 0.8931623931623932,
+    "collision_rate_channel_events": 0.9829059829059829,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.225531914893617,
+    "spectral_efficiency": 0.835460992907801,
+    "collision_rate_slots": 0.8936170212765957,
+    "collision_rate_channel_events": 0.9829787234042553,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2245762711864407,
+    "spectral_efficiency": 0.836158192090395,
+    "collision_rate_slots": 0.8940677966101694,
+    "collision_rate_channel_events": 0.9830508474576272,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2236286919831223,
+    "spectral_efficiency": 0.8368495077355832,
+    "collision_rate_slots": 0.8945147679324894,
+    "collision_rate_channel_events": 0.9831223628691983,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2226890756302522,
+    "spectral_efficiency": 0.8375350140056018,
+    "collision_rate_slots": 0.8949579831932774,
+    "collision_rate_channel_events": 0.9831932773109243,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2217573221757323,
+    "spectral_efficiency": 0.8368200836820079,
+    "collision_rate_slots": 0.895397489539749,
+    "collision_rate_channel_events": 0.9832635983263598,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2208333333333334,
+    "spectral_efficiency": 0.8361111111111106,
+    "collision_rate_slots": 0.8958333333333334,
+    "collision_rate_channel_events": 0.9875,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2157676348547717,
+    "spectral_efficiency": 0.8354080221300133,
+    "collision_rate_slots": 0.8962655601659751,
+    "collision_rate_channel_events": 0.9875518672199171,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2148760330578512,
+    "spectral_efficiency": 0.8360881542699719,
+    "collision_rate_slots": 0.8966942148760331,
+    "collision_rate_channel_events": 0.987603305785124,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.213991769547325,
+    "spectral_efficiency": 0.83676268861454,
+    "collision_rate_slots": 0.897119341563786,
+    "collision_rate_channel_events": 0.9876543209876543,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2131147540983607,
+    "spectral_efficiency": 0.8374316939890705,
+    "collision_rate_slots": 0.8975409836065574,
+    "collision_rate_channel_events": 0.9877049180327869,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2122448979591838,
+    "spectral_efficiency": 0.8380952380952376,
+    "collision_rate_slots": 0.8979591836734694,
+    "collision_rate_channel_events": 0.9877551020408163,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2113821138211383,
+    "spectral_efficiency": 0.8387533875338749,
+    "collision_rate_slots": 0.8983739837398373,
+    "collision_rate_channel_events": 0.9878048780487805,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2105263157894737,
+    "spectral_efficiency": 0.8394062078272599,
+    "collision_rate_slots": 0.8987854251012146,
+    "collision_rate_channel_events": 0.9878542510121457,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2096774193548387,
+    "spectral_efficiency": 0.8400537634408597,
+    "collision_rate_slots": 0.8991935483870968,
+    "collision_rate_channel_events": 0.9879032258064516,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2088353413654618,
+    "spectral_efficiency": 0.840696117804551,
+    "collision_rate_slots": 0.8995983935742972,
+    "collision_rate_channel_events": 0.9879518072289156,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.208,
+    "spectral_efficiency": 0.8413333333333328,
+    "collision_rate_slots": 0.9,
+    "collision_rate_channel_events": 0.988,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.207171314741036,
+    "spectral_efficiency": 0.8419654714475426,
+    "collision_rate_slots": 0.900398406374502,
+    "collision_rate_channel_events": 0.9880478087649402,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2063492063492063,
+    "spectral_efficiency": 0.8425925925925921,
+    "collision_rate_slots": 0.9007936507936508,
+    "collision_rate_channel_events": 0.9880952380952381,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2055335968379446,
+    "spectral_efficiency": 0.8432147562582339,
+    "collision_rate_slots": 0.9011857707509882,
+    "collision_rate_channel_events": 0.9881422924901185,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.204724409448819,
+    "spectral_efficiency": 0.8438320209973748,
+    "collision_rate_slots": 0.9015748031496063,
+    "collision_rate_channel_events": 0.9881889763779528,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.203921568627451,
+    "spectral_efficiency": 0.8431372549019602,
+    "collision_rate_slots": 0.9019607843137255,
+    "collision_rate_channel_events": 0.9882352941176471,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.203125,
+    "spectral_efficiency": 0.8424479166666661,
+    "collision_rate_slots": 0.90234375,
+    "collision_rate_channel_events": 0.9921875,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.206225680933852,
+    "spectral_efficiency": 0.8430609597924767,
+    "collision_rate_slots": 0.9027237354085603,
+    "collision_rate_channel_events": 0.9922178988326849,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2131782945736433,
+    "spectral_efficiency": 0.8436692506459943,
+    "collision_rate_slots": 0.9031007751937985,
+    "collision_rate_channel_events": 0.9922480620155039,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.22007722007722,
+    "spectral_efficiency": 0.8442728442728437,
+    "collision_rate_slots": 0.9034749034749034,
+    "collision_rate_channel_events": 0.9922779922779923,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.226923076923077,
+    "spectral_efficiency": 0.8448717948717943,
+    "collision_rate_slots": 0.9038461538461539,
+    "collision_rate_channel_events": 0.9923076923076923,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2337164750957854,
+    "spectral_efficiency": 0.8454661558109828,
+    "collision_rate_slots": 0.9042145593869731,
+    "collision_rate_channel_events": 0.9923371647509579,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2328244274809161,
+    "spectral_efficiency": 0.844783715012722,
+    "collision_rate_slots": 0.9045801526717557,
+    "collision_rate_channel_events": 0.9923664122137404,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.231939163498099,
+    "spectral_efficiency": 0.8441064638783263,
+    "collision_rate_slots": 0.9049429657794676,
+    "collision_rate_channel_events": 0.9923954372623575,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.231060606060606,
+    "spectral_efficiency": 0.8434343434343428,
+    "collision_rate_slots": 0.9053030303030303,
+    "collision_rate_channel_events": 0.9924242424242424,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.230188679245283,
+    "spectral_efficiency": 0.8440251572327038,
+    "collision_rate_slots": 0.9056603773584906,
+    "collision_rate_channel_events": 0.9924528301886792,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2293233082706767,
+    "spectral_efficiency": 0.8446115288220545,
+    "collision_rate_slots": 0.9060150375939849,
+    "collision_rate_channel_events": 0.9924812030075187,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2284644194756553,
+    "spectral_efficiency": 0.8451935081148557,
+    "collision_rate_slots": 0.9063670411985019,
+    "collision_rate_channel_events": 0.9925093632958801,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2276119402985075,
+    "spectral_efficiency": 0.8457711442786063,
+    "collision_rate_slots": 0.9067164179104478,
+    "collision_rate_channel_events": 0.9925373134328358,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2267657992565055,
+    "spectral_efficiency": 0.8463444857496896,
+    "collision_rate_slots": 0.9070631970260223,
+    "collision_rate_channel_events": 0.9925650557620818,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2259259259259259,
+    "spectral_efficiency": 0.8469135802469129,
+    "collision_rate_slots": 0.9074074074074074,
+    "collision_rate_channel_events": 0.9925925925925926,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2250922509225093,
+    "spectral_efficiency": 0.8474784747847471,
+    "collision_rate_slots": 0.9077490774907749,
+    "collision_rate_channel_events": 0.992619926199262,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.224264705882353,
+    "spectral_efficiency": 0.8480392156862738,
+    "collision_rate_slots": 0.9080882352941176,
+    "collision_rate_channel_events": 0.9926470588235294,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2234432234432235,
+    "spectral_efficiency": 0.8485958485958479,
+    "collision_rate_slots": 0.9084249084249084,
+    "collision_rate_channel_events": 0.9926739926739927,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2226277372262773,
+    "spectral_efficiency": 0.8491484184914835,
+    "collision_rate_slots": 0.9087591240875912,
+    "collision_rate_channel_events": 0.9927007299270073,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.221818181818182,
+    "spectral_efficiency": 0.8496969696969691,
+    "collision_rate_slots": 0.9090909090909091,
+    "collision_rate_channel_events": 0.9927272727272727,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2210144927536233,
+    "spectral_efficiency": 0.8502415458937191,
+    "collision_rate_slots": 0.9094202898550725,
+    "collision_rate_channel_events": 0.9927536231884058,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.220216606498195,
+    "spectral_efficiency": 0.85078219013237,
+    "collision_rate_slots": 0.9097472924187726,
+    "collision_rate_channel_events": 0.9927797833935018,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2194244604316546,
+    "spectral_efficiency": 0.8513189448441241,
+    "collision_rate_slots": 0.9100719424460432,
+    "collision_rate_channel_events": 0.9928057553956835,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2186379928315412,
+    "spectral_efficiency": 0.8518518518518512,
+    "collision_rate_slots": 0.910394265232975,
+    "collision_rate_channel_events": 0.992831541218638,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2214285714285715,
+    "spectral_efficiency": 0.8523809523809517,
+    "collision_rate_slots": 0.9107142857142857,
+    "collision_rate_channel_events": 0.9928571428571429,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2206405693950177,
+    "spectral_efficiency": 0.8529062870699875,
+    "collision_rate_slots": 0.9110320284697508,
+    "collision_rate_channel_events": 0.9928825622775801,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2198581560283688,
+    "spectral_efficiency": 0.8534278959810868,
+    "collision_rate_slots": 0.9113475177304965,
+    "collision_rate_channel_events": 0.9929078014184397,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2190812720848057,
+    "spectral_efficiency": 0.853945818610129,
+    "collision_rate_slots": 0.911660777385159,
+    "collision_rate_channel_events": 0.9929328621908127,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2183098591549295,
+    "spectral_efficiency": 0.854460093896713,
+    "collision_rate_slots": 0.9119718309859155,
+    "collision_rate_channel_events": 0.9929577464788732,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2175438596491228,
+    "spectral_efficiency": 0.8549707602339175,
+    "collision_rate_slots": 0.9122807017543859,
+    "collision_rate_channel_events": 0.9929824561403509,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2167832167832169,
+    "spectral_efficiency": 0.8554778554778548,
+    "collision_rate_slots": 0.9125874125874126,
+    "collision_rate_channel_events": 0.993006993006993,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.21602787456446,
+    "spectral_efficiency": 0.8559814169570261,
+    "collision_rate_slots": 0.9128919860627178,
+    "collision_rate_channel_events": 0.9930313588850174,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2152777777777777,
+    "spectral_efficiency": 0.8564814814814808,
+    "collision_rate_slots": 0.9131944444444444,
+    "collision_rate_channel_events": 0.9930555555555556,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2145328719723183,
+    "spectral_efficiency": 0.8569780853517871,
+    "collision_rate_slots": 0.9134948096885813,
+    "collision_rate_channel_events": 0.9930795847750865,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2137931034482758,
+    "spectral_efficiency": 0.8574712643678155,
+    "collision_rate_slots": 0.9137931034482759,
+    "collision_rate_channel_events": 0.993103448275862,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2130584192439862,
+    "spectral_efficiency": 0.8579610538373419,
+    "collision_rate_slots": 0.9140893470790378,
+    "collision_rate_channel_events": 0.993127147766323,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2123287671232876,
+    "spectral_efficiency": 0.8584474885844743,
+    "collision_rate_slots": 0.9143835616438356,
+    "collision_rate_channel_events": 0.9931506849315068,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.21160409556314,
+    "spectral_efficiency": 0.8589306029579061,
+    "collision_rate_slots": 0.9146757679180887,
+    "collision_rate_channel_events": 0.9931740614334471,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2108843537414966,
+    "spectral_efficiency": 0.8594104308390017,
+    "collision_rate_slots": 0.9149659863945578,
+    "collision_rate_channel_events": 0.9931972789115646,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2101694915254237,
+    "spectral_efficiency": 0.8598870056497169,
+    "collision_rate_slots": 0.9152542372881356,
+    "collision_rate_channel_events": 0.9932203389830508,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2094594594594594,
+    "spectral_efficiency": 0.8603603603603598,
+    "collision_rate_slots": 0.9155405405405406,
+    "collision_rate_channel_events": 0.9932432432432432,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2087542087542087,
+    "spectral_efficiency": 0.8608305274971936,
+    "collision_rate_slots": 0.9158249158249159,
+    "collision_rate_channel_events": 0.9932659932659933,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2080536912751678,
+    "spectral_efficiency": 0.8612975391498876,
+    "collision_rate_slots": 0.9161073825503355,
+    "collision_rate_channel_events": 0.9932885906040269,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2073578595317727,
+    "spectral_efficiency": 0.8617614269788177,
+    "collision_rate_slots": 0.9163879598662207,
+    "collision_rate_channel_events": 0.9933110367892977,
+    "TimeLimit.truncated": 0.0
+  },
+  {
+    "urllc_success_rate": 1.0,
+    "mmtc_throughput": 1.2066666666666668,
+    "spectral_efficiency": 0.8622222222222217,
+    "collision_rate_slots": 0.9166666666666666,
+    "collision_rate_channel_events": 0.9933333333333333,
+    "TimeLimit.truncated": 1.0,
+    "terminal_observation": [
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.7124007344245911,
+      4.744639682030538e-06,
+      4.288874151825439e-06,
+      -0.13495108485221863,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6288008093833923,
+      4.744639682030538e-06,
+      4.288874151825439e-06,
+      -0.2449520081281662,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.33946692943573,
+      0.0,
+      1.4535763739331742e-06,
+      0.8142720460891724,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.36930298805236816,
+      0.0,
+      1.4535763739331742e-06,
+      -0.8226075768470764,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.9607508778572083,
+      0.0,
+      1.4535763739331742e-06,
+      0.8888862133026123,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -0.4578971862792969,
+      0.0,
+      1.4535763739331742e-06,
+      -0.8016753196716309,
+      4.744639682030538e-06,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      4.744639682030538e-06,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0303443670272827,
+      0.763124942779541,
+      0.20541337132453918
+    ]
+  }
+]

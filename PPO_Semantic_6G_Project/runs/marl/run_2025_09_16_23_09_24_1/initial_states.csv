@@ -1,0 +1,7 @@
+ue_id,traffic_type,priority
+0,URLLC,9
+1,URLLC,9
+2,URLLC,9
+3,mMTC,3
+4,mMTC,3
+5,mMTC,3

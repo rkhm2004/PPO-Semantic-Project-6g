@@ -1,0 +1,4 @@
+PPO Implementation:
+- Uses stable-baselines3 for PPO with a custom gym environment.
+- Incorporates semantic reuse via assisted_segments in UE states.
+- Targets URLLC latency <5 slots and mMTC throughput 0.8–1.2 packets/slot.

@@ -1,0 +1,17 @@
+{
+    "bandwidth": 100e6,
+    "carrier_frequency": 3.5e9,
+    "num_channels": 3,
+    "noise_spectral_density": -174,
+    "max_transmit_power": 23,
+    "path_loss_exponent": 3.5,
+    "shadowing_std": 8,
+    "urllc_requirements": {
+        "max_latency_slots": 5,
+        "reliability": 0.9999
+    },
+    "mmtc_requirements": {
+        "min_throughput": 0.8,
+        "target_throughput": 1.0
+    }
+}

@@ -1,0 +1,4 @@
+method,env,urllc_success,mmtc_throughput,spectral_efficiency,collision_slot_rate
+Ours,Real,0.911,0.322,0.68,0.883
+Ours,"Hybrid (Sim+Real, eval real)",0.95,0.875,0.929,0.087
+Ours,Sim2Real (eval real),0.991,0.977,0.876,0.016

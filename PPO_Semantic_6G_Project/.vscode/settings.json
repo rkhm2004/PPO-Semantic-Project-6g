@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "python",  # Uses global Python 3.13.5
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    }
+}

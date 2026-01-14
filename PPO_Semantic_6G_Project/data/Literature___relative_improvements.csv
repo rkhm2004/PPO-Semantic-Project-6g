@@ -1,0 +1,8 @@
+paper_id,citation_short,metric,improvement_pct,notes
+guo_jsac_2022,Guo JSAC 2022,Throughput,12.5,~10–15% vs CSMA (midpoint)
+guo_jsac_2022,Guo JSAC 2022,Collision rate,-22.5,~20–25% reduction vs CSMA (midpoint)
+zhang_wang_twc_2022,Zhang & Wang TWC 2022,Throughput,12,~12% vs Q-Learning
+zhang_wang_twc_2022,Zhang & Wang TWC 2022,Collision rate,-25,~25% reduction
+zhang_eurasip_2024,Zhang et al. EURASIP JASP 2024,S-SE,22.5,~20–25% improvement (IRS+DRL; semantic spectral efficiency)
+wang_tcom_2024,Wang et al. TCOM 2024,Spectral efficiency,13.4,Semantics-aware allocation; reported SE/task proxy
+wang_tcom_2024,Wang et al. TCOM 2024,URLLC-like task,13.4,Goal/Task success proxy (treated as URLLC-like)

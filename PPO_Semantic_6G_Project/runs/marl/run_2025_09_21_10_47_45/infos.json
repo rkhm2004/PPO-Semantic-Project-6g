@@ -1,0 +1,2101 @@
+[
+  {
+    "urllc_success_rate": 0.9999990000010001,
+    "mmtc_throughput": 0.9999990000010001,
+    "spectral_efficiency": 0.6666666666666666,
+    "collision_rate": 0.0,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999990000010001,
+    "mmtc_throughput": 0.499999750000125,
+    "spectral_efficiency": 0.3333333333333333,
+    "collision_rate": 0.499999750000125,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 0.6666664444445185,
+    "spectral_efficiency": 0.4444444444444444,
+    "collision_rate": 0.33333322222225925,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 0.7499998125000469,
+    "spectral_efficiency": 0.4166666666666667,
+    "collision_rate": 0.49999987500003124,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 0.799999840000032,
+    "spectral_efficiency": 0.4,
+    "collision_rate": 0.599999880000024,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 0.9999998333333611,
+    "spectral_efficiency": 0.4444444444444444,
+    "collision_rate": 0.6666665555555741,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.14285697959186,
+    "spectral_efficiency": 0.47619047619047616,
+    "collision_rate": 0.7142856122449125,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.1249998593750177,
+    "spectral_efficiency": 0.4583333333333333,
+    "collision_rate": 0.7499999062500118,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.2222220864197684,
+    "spectral_efficiency": 0.48148148148148145,
+    "collision_rate": 0.7777776913580343,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.299999870000013,
+    "spectral_efficiency": 0.5,
+    "collision_rate": 0.7999999200000081,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.1818180743801752,
+    "spectral_efficiency": 0.45454545454545453,
+    "collision_rate": 0.9090908264462886,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999950000025,
+    "mmtc_throughput": 1.1666665694444527,
+    "spectral_efficiency": 0.4444444444444444,
+    "collision_rate": 0.9166665902777842,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999996666667778,
+    "mmtc_throughput": 1.1538460650887643,
+    "spectral_efficiency": 0.46153846153846156,
+    "collision_rate": 0.9230768520710114,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999996666667778,
+    "mmtc_throughput": 1.2142856275510268,
+    "spectral_efficiency": 0.47619047619047616,
+    "collision_rate": 0.9285713622449028,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999996666667778,
+    "mmtc_throughput": 1.2666665822222278,
+    "spectral_efficiency": 0.4888888888888889,
+    "collision_rate": 0.9333332711111153,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999997500000625,
+    "mmtc_throughput": 1.2499999218750049,
+    "spectral_efficiency": 0.5,
+    "collision_rate": 0.9374999414062536,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999980000004,
+    "mmtc_throughput": 1.176470519031146,
+    "spectral_efficiency": 0.49019607843137253,
+    "collision_rate": 0.9411764152249167,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998333333611,
+    "mmtc_throughput": 1.1111110493827194,
+    "spectral_efficiency": 0.48148148148148145,
+    "collision_rate": 0.9444443919753115,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998571428775,
+    "mmtc_throughput": 1.0526315235457093,
+    "spectral_efficiency": 0.47368421052631576,
+    "collision_rate": 0.9473683711911383,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998750000157,
+    "mmtc_throughput": 1.0499999475000026,
+    "spectral_efficiency": 0.48333333333333334,
+    "collision_rate": 0.9499999525000024,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998750000157,
+    "mmtc_throughput": 1.0952380430839026,
+    "spectral_efficiency": 0.49206349206349204,
+    "collision_rate": 0.9523809070294805,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998750000157,
+    "mmtc_throughput": 1.0454544979338865,
+    "spectral_efficiency": 0.4696969696969697,
+    "collision_rate": 0.9999999545454565,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998750000157,
+    "mmtc_throughput": 0.999999956521741,
+    "spectral_efficiency": 0.4492753623188406,
+    "collision_rate": 1.0434782155009472,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999998888889013,
+    "mmtc_throughput": 0.9583332934027794,
+    "spectral_efficiency": 0.4444444444444444,
+    "collision_rate": 1.0416666232638907,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999990000001,
+    "mmtc_throughput": 0.9599999616000015,
+    "spectral_efficiency": 0.4533333333333333,
+    "collision_rate": 1.0399999584000017,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999090909174,
+    "mmtc_throughput": 0.9615384245562144,
+    "spectral_efficiency": 0.46153846153846156,
+    "collision_rate": 1.0384614985207115,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999090909174,
+    "mmtc_throughput": 0.9259258916323744,
+    "spectral_efficiency": 0.4444444444444444,
+    "collision_rate": 1.0740740342935542,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999230769291,
+    "mmtc_throughput": 0.8928571109693889,
+    "spectral_efficiency": 0.4523809523809524,
+    "collision_rate": 1.0714285331632667,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999285714337,
+    "mmtc_throughput": 0.8965516932223554,
+    "spectral_efficiency": 0.45977011494252873,
+    "collision_rate": 1.0689654803805007,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999285714337,
+    "mmtc_throughput": 0.899999970000001,
+    "spectral_efficiency": 0.45555555555555555,
+    "collision_rate": 1.0666666311111122,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999285714337,
+    "mmtc_throughput": 0.8709677138397511,
+    "spectral_efficiency": 0.44086021505376344,
+    "collision_rate": 1.0967741581685755,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999375000038,
+    "mmtc_throughput": 0.8437499736328133,
+    "spectral_efficiency": 0.4479166666666667,
+    "collision_rate": 1.0937499658203136,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999375000038,
+    "mmtc_throughput": 0.8181817933884306,
+    "spectral_efficiency": 0.43434343434343436,
+    "collision_rate": 1.1212120872359974,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999375000038,
+    "mmtc_throughput": 0.7941176237024229,
+    "spectral_efficiency": 0.4215686274509804,
+    "collision_rate": 1.1470587897923885,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999375000038,
+    "mmtc_throughput": 0.7999999771428579,
+    "spectral_efficiency": 0.41904761904761906,
+    "collision_rate": 1.1428571102040825,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999941176474,
+    "mmtc_throughput": 0.8055555331790131,
+    "spectral_efficiency": 0.42592592592592593,
+    "collision_rate": 1.1388888572530873,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999444444475,
+    "mmtc_throughput": 0.7837837626004389,
+    "spectral_efficiency": 0.42342342342342343,
+    "collision_rate": 1.135135104455808,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999473684238,
+    "mmtc_throughput": 0.7631578746537402,
+    "spectral_efficiency": 0.42105263157894735,
+    "collision_rate": 1.1315789175900286,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999523809546,
+    "mmtc_throughput": 0.7435897245233405,
+    "spectral_efficiency": 0.42735042735042733,
+    "collision_rate": 1.1282050992767925,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999545454565,
+    "mmtc_throughput": 0.7249999818750005,
+    "spectral_efficiency": 0.425,
+    "collision_rate": 1.1249999718750008,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999956521741,
+    "mmtc_throughput": 0.7073170559190962,
+    "spectral_efficiency": 0.42276422764227645,
+    "collision_rate": 1.121951192147532,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999958333335,
+    "mmtc_throughput": 0.6904761740362816,
+    "spectral_efficiency": 0.42063492063492064,
+    "collision_rate": 1.1190475924036287,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.697674402379665,
+    "spectral_efficiency": 0.4263565891472868,
+    "collision_rate": 1.1162790438074641,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7045454385330583,
+    "spectral_efficiency": 0.42424242424242425,
+    "collision_rate": 1.113636338326447,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7111110953086424,
+    "spectral_efficiency": 0.4222222222222222,
+    "collision_rate": 1.1111110864197538,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7173912887523634,
+    "spectral_efficiency": 0.42028985507246375,
+    "collision_rate": 1.1086956280718343,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7234042399275694,
+    "spectral_efficiency": 0.41843971631205673,
+    "collision_rate": 1.1063829551833415,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7291666514756948,
+    "spectral_efficiency": 0.4166666666666667,
+    "collision_rate": 1.104166643663195,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7346938625572681,
+    "spectral_efficiency": 0.41496598639455784,
+    "collision_rate": 1.1020407938359023,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7399999852000003,
+    "spectral_efficiency": 0.41333333333333333,
+    "collision_rate": 1.0999999780000005,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7450980246059211,
+    "spectral_efficiency": 0.4117647058823529,
+    "collision_rate": 1.0980391941560943,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7499999855769234,
+    "spectral_efficiency": 0.41025641025641024,
+    "collision_rate": 1.0961538250739649,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7358490427198294,
+    "spectral_efficiency": 0.4025157232704403,
+    "collision_rate": 1.1132075261658958,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999600000016,
+    "mmtc_throughput": 0.7222222088477369,
+    "spectral_efficiency": 0.3950617283950617,
+    "collision_rate": 1.1296296087105628,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.727272714049587,
+    "spectral_efficiency": 0.4,
+    "collision_rate": 1.12727270677686,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7499999866071432,
+    "spectral_efficiency": 0.40476190476190477,
+    "collision_rate": 1.1249999799107147,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7719298110187752,
+    "spectral_efficiency": 0.4093567251461988,
+    "collision_rate": 1.1228069978454913,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.793103434601665,
+    "spectral_efficiency": 0.41379310344827586,
+    "collision_rate": 1.1206896358501788,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7796610037345593,
+    "spectral_efficiency": 0.4067796610169492,
+    "collision_rate": 1.1355932010916407,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.783333320277778,
+    "spectral_efficiency": 0.40555555555555556,
+    "collision_rate": 1.1333333144444449,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7868852330018815,
+    "spectral_efficiency": 0.40437158469945356,
+    "collision_rate": 1.1311475224402046,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7903225678980231,
+    "spectral_efficiency": 0.4032258064516129,
+    "collision_rate": 1.1290322398543187,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8095237966742255,
+    "spectral_efficiency": 0.4074074074074074,
+    "collision_rate": 1.1269841090954904,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8281249870605472,
+    "spectral_efficiency": 0.4114583333333333,
+    "collision_rate": 1.1249999824218753,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8307692179881659,
+    "spectral_efficiency": 0.41025641025641024,
+    "collision_rate": 1.1230769057988168,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8333333207070709,
+    "spectral_efficiency": 0.4090909090909091,
+    "collision_rate": 1.121212104224059,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8358208830474495,
+    "spectral_efficiency": 0.4079601990049751,
+    "collision_rate": 1.1194029683671198,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8382352817906576,
+    "spectral_efficiency": 0.4068627450980392,
+    "collision_rate": 1.1176470423875435,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8405796979626131,
+    "spectral_efficiency": 0.4057971014492754,
+    "collision_rate": 1.1159420128124347,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8428571308163267,
+    "spectral_efficiency": 0.40476190476190477,
+    "collision_rate": 1.1142856983673473,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.830985903788931,
+    "spectral_efficiency": 0.39906103286384975,
+    "collision_rate": 1.1126760406665346,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8194444330632717,
+    "spectral_efficiency": 0.39351851851851855,
+    "collision_rate": 1.1249999843750003,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8082191670106964,
+    "spectral_efficiency": 0.3881278538812785,
+    "collision_rate": 1.1232876558453746,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.8108107998539081,
+    "spectral_efficiency": 0.38738738738738737,
+    "collision_rate": 1.121621606464573,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7999999893333335,
+    "spectral_efficiency": 0.38222222222222224,
+    "collision_rate": 1.1333333182222225,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7894736738227148,
+    "spectral_efficiency": 0.37719298245614036,
+    "collision_rate": 1.1447368270429366,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999615384629,
+    "mmtc_throughput": 0.7922077819193795,
+    "spectral_efficiency": 0.37662337662337664,
+    "collision_rate": 1.1428571280148425,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999629629643,
+    "mmtc_throughput": 0.7820512720249837,
+    "spectral_efficiency": 0.37606837606837606,
+    "collision_rate": 1.1410256263971075,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999642857155,
+    "mmtc_throughput": 0.7721518889601027,
+    "spectral_efficiency": 0.3755274261603376,
+    "collision_rate": 1.1392404919083483,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999642857155,
+    "mmtc_throughput": 0.7624999904687502,
+    "spectral_efficiency": 0.37083333333333335,
+    "collision_rate": 1.1499999856250003,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999642857155,
+    "mmtc_throughput": 0.7654320893156532,
+    "spectral_efficiency": 0.37037037037037035,
+    "collision_rate": 1.1481481339734798,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999655172426,
+    "mmtc_throughput": 0.7560975517549079,
+    "spectral_efficiency": 0.3699186991869919,
+    "collision_rate": 1.1463414494348605,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999655172426,
+    "mmtc_throughput": 0.771084328059225,
+    "spectral_efficiency": 0.37349397590361444,
+    "collision_rate": 1.1445782994629121,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999666666678,
+    "mmtc_throughput": 0.7738095145975058,
+    "spectral_efficiency": 0.376984126984127,
+    "collision_rate": 1.142857129251701,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999687500011,
+    "mmtc_throughput": 0.7647058733564015,
+    "spectral_efficiency": 0.3803921568627451,
+    "collision_rate": 1.14117645716263,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999705882362,
+    "mmtc_throughput": 0.7558139446998379,
+    "spectral_efficiency": 0.38372093023255816,
+    "collision_rate": 1.1395348704705248,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999714285723,
+    "mmtc_throughput": 0.7586206809353945,
+    "spectral_efficiency": 0.38697318007662834,
+    "collision_rate": 1.1379310214030918,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999714285723,
+    "mmtc_throughput": 0.761363627711777,
+    "spectral_efficiency": 0.38636363636363635,
+    "collision_rate": 1.1363636234504133,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999972222223,
+    "mmtc_throughput": 0.7640449352354501,
+    "spectral_efficiency": 0.3895131086142322,
+    "collision_rate": 1.1348314479232422,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999972222223,
+    "mmtc_throughput": 0.7777777691358025,
+    "spectral_efficiency": 0.3925925925925926,
+    "collision_rate": 1.133333320740741,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7802197716459366,
+    "spectral_efficiency": 0.3956043956043956,
+    "collision_rate": 1.1318681194300206,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7826086871455578,
+    "spectral_efficiency": 0.39492753623188404,
+    "collision_rate": 1.1304347703213613,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7956989161752805,
+    "spectral_efficiency": 0.3978494623655914,
+    "collision_rate": 1.1290322459243844,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7872340341783614,
+    "spectral_efficiency": 0.39361702127659576,
+    "collision_rate": 1.1382978602308738,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7789473602216067,
+    "spectral_efficiency": 0.3894736842105263,
+    "collision_rate": 1.1473684089750693,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7708333253038195,
+    "spectral_efficiency": 0.3854166666666667,
+    "collision_rate": 1.1562499879557293,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999729729737,
+    "mmtc_throughput": 0.7835051465618026,
+    "spectral_efficiency": 0.38831615120274915,
+    "collision_rate": 1.1546391633542354,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999736842113,
+    "mmtc_throughput": 0.7857142776967931,
+    "spectral_efficiency": 0.391156462585034,
+    "collision_rate": 1.1530612127238653,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999974358975,
+    "mmtc_throughput": 0.7777777699214367,
+    "spectral_efficiency": 0.39057239057239057,
+    "collision_rate": 1.1515151398836856,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999974358975,
+    "mmtc_throughput": 0.7899999921,
+    "spectral_efficiency": 0.3933333333333333,
+    "collision_rate": 1.1499999885,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999750000007,
+    "mmtc_throughput": 0.7821782100774435,
+    "spectral_efficiency": 0.3927392739273927,
+    "collision_rate": 1.1485148401137144,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999756097567,
+    "mmtc_throughput": 0.7745097963283354,
+    "spectral_efficiency": 0.39215686274509803,
+    "collision_rate": 1.147058812283737,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7766990215854465,
+    "spectral_efficiency": 0.3948220064724919,
+    "collision_rate": 1.1456310568385335,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7788461463572486,
+    "spectral_efficiency": 0.3942307692307692,
+    "collision_rate": 1.1442307582285505,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7809523735147393,
+    "spectral_efficiency": 0.39365079365079364,
+    "collision_rate": 1.1428571319727892,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7924528227127092,
+    "spectral_efficiency": 0.39622641509433965,
+    "collision_rate": 1.1415094231933074,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7943925159402568,
+    "spectral_efficiency": 0.3956386292834891,
+    "collision_rate": 1.140186905231898,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7962962889231825,
+    "spectral_efficiency": 0.3950617283950617,
+    "collision_rate": 1.1388888783436215,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7889908184496255,
+    "spectral_efficiency": 0.39143730886850153,
+    "collision_rate": 1.1376146684622508,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7818181747107439,
+    "spectral_efficiency": 0.3878787878787879,
+    "collision_rate": 1.1454545350413223,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7747747677948219,
+    "spectral_efficiency": 0.3843843843843844,
+    "collision_rate": 1.1531531427643862,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999761904769,
+    "mmtc_throughput": 0.7767857073501276,
+    "spectral_efficiency": 0.38392857142857145,
+    "collision_rate": 1.1517857040019135,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999767441866,
+    "mmtc_throughput": 0.7787610550552119,
+    "spectral_efficiency": 0.3864306784660767,
+    "collision_rate": 1.1504424676951994,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999767441866,
+    "mmtc_throughput": 0.7807017475377039,
+    "spectral_efficiency": 0.38596491228070173,
+    "collision_rate": 1.1491227969375193,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999772727278,
+    "mmtc_throughput": 0.7739130367485824,
+    "spectral_efficiency": 0.3855072463768116,
+    "collision_rate": 1.1478260769754254,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999777777784,
+    "mmtc_throughput": 0.7758620622770512,
+    "spectral_efficiency": 0.3879310344827586,
+    "collision_rate": 1.1465517142538646,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7777777711301045,
+    "spectral_efficiency": 0.3903133903133903,
+    "collision_rate": 1.1452991355102637,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7796610103418559,
+    "spectral_efficiency": 0.3898305084745763,
+    "collision_rate": 1.1440677869146798,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.781512598474684,
+    "spectral_efficiency": 0.38935574229691877,
+    "collision_rate": 1.1428571332533015,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7833333268055557,
+    "spectral_efficiency": 0.3888888888888889,
+    "collision_rate": 1.1416666571527778,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.785123960453521,
+    "spectral_efficiency": 0.3884297520661157,
+    "collision_rate": 1.1404958583430094,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7950819606960495,
+    "spectral_efficiency": 0.3907103825136612,
+    "collision_rate": 1.1393442529561946,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7886178797673343,
+    "spectral_efficiency": 0.3875338753387534,
+    "collision_rate": 1.146341454094785,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7822580582075963,
+    "spectral_efficiency": 0.3844086021505376,
+    "collision_rate": 1.1532257971514048,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.7919999936640001,
+    "spectral_efficiency": 0.38666666666666666,
+    "collision_rate": 1.1519999907840002,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999782608701,
+    "mmtc_throughput": 0.8015872952254977,
+    "spectral_efficiency": 0.3888888888888889,
+    "collision_rate": 1.150793641660368,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999787234047,
+    "mmtc_throughput": 0.8031495999752,
+    "spectral_efficiency": 0.3910761154855643,
+    "collision_rate": 1.1496062901605804,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999787234047,
+    "mmtc_throughput": 0.7968749937744142,
+    "spectral_efficiency": 0.3880208333333333,
+    "collision_rate": 1.156249990966797,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999787234047,
+    "mmtc_throughput": 0.7906976682891653,
+    "spectral_efficiency": 0.3850129198966408,
+    "collision_rate": 1.1627906886605373,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999787234047,
+    "mmtc_throughput": 0.7846153785798817,
+    "spectral_efficiency": 0.382051282051282,
+    "collision_rate": 1.1692307602366865,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999787234047,
+    "mmtc_throughput": 0.7786259482547637,
+    "spectral_efficiency": 0.3791348600508906,
+    "collision_rate": 1.1755725101101335,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999791666672,
+    "mmtc_throughput": 0.7803030243916438,
+    "spectral_efficiency": 0.3813131313131313,
+    "collision_rate": 1.1742424153466484,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999795918372,
+    "mmtc_throughput": 0.7819548813386851,
+    "spectral_efficiency": 0.38345864661654133,
+    "collision_rate": 1.1729323220080277,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999800000005,
+    "mmtc_throughput": 0.7835820837046114,
+    "spectral_efficiency": 0.3855721393034826,
+    "collision_rate": 1.1716417823011807,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999803921573,
+    "mmtc_throughput": 0.7851851793689987,
+    "spectral_efficiency": 0.38765432098765434,
+    "collision_rate": 1.1703703617009602,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999803921573,
+    "mmtc_throughput": 0.7794117589749135,
+    "spectral_efficiency": 0.38480392156862747,
+    "collision_rate": 1.1764705795847752,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999807692311,
+    "mmtc_throughput": 0.773722622089616,
+    "spectral_efficiency": 0.3844282238442822,
+    "collision_rate": 1.1751824731738505,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999811320759,
+    "mmtc_throughput": 0.768115936462928,
+    "spectral_efficiency": 0.38405797101449274,
+    "collision_rate": 1.1739130349716447,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999814814818,
+    "mmtc_throughput": 0.7625899225712955,
+    "spectral_efficiency": 0.38369304556354916,
+    "collision_rate": 1.172661862067181,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999818181822,
+    "mmtc_throughput": 0.757142851734694,
+    "spectral_efficiency": 0.38333333333333336,
+    "collision_rate": 1.1714285630612247,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999821428575,
+    "mmtc_throughput": 0.7588652428449274,
+    "spectral_efficiency": 0.38534278959810875,
+    "collision_rate": 1.1702127576580656,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999824561407,
+    "mmtc_throughput": 0.7605633749256101,
+    "spectral_efficiency": 0.3873239436619718,
+    "collision_rate": 1.1690140762745487,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999982758621,
+    "mmtc_throughput": 0.7622377569074282,
+    "spectral_efficiency": 0.38927738927738925,
+    "collision_rate": 1.1678321596655095,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999830508478,
+    "mmtc_throughput": 0.7569444391878859,
+    "spectral_efficiency": 0.3888888888888889,
+    "collision_rate": 1.1666666585648149,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999830508478,
+    "mmtc_throughput": 0.7586206844233057,
+    "spectral_efficiency": 0.38850574712643676,
+    "collision_rate": 1.1655172333412605,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999830508478,
+    "mmtc_throughput": 0.7671232824169638,
+    "spectral_efficiency": 0.3904109589041096,
+    "collision_rate": 1.1643835536686058,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999830508478,
+    "mmtc_throughput": 0.7687074777638947,
+    "spectral_efficiency": 0.3900226757369615,
+    "collision_rate": 1.1632652982090796,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999833333336,
+    "mmtc_throughput": 0.7702702650657415,
+    "spectral_efficiency": 0.3918918918918919,
+    "collision_rate": 1.1621621543097151,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999836065577,
+    "mmtc_throughput": 0.7718120753569659,
+    "spectral_efficiency": 0.39373601789709173,
+    "collision_rate": 1.161073817710914,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999983870968,
+    "mmtc_throughput": 0.7733333281777778,
+    "spectral_efficiency": 0.39555555555555555,
+    "collision_rate": 1.1599999922666668,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999841269844,
+    "mmtc_throughput": 0.7748344319547389,
+    "spectral_efficiency": 0.3973509933774834,
+    "collision_rate": 1.1589403896758914,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999843750003,
+    "mmtc_throughput": 0.7763157843663435,
+    "spectral_efficiency": 0.3991228070175439,
+    "collision_rate": 1.1578947292243769,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999846153849,
+    "mmtc_throughput": 0.777777772694263,
+    "spectral_efficiency": 0.4008714596949891,
+    "collision_rate": 1.1568627375368448,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7792207741609041,
+    "spectral_efficiency": 0.4025974025974026,
+    "collision_rate": 1.1558441483386743,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7741935433922997,
+    "spectral_efficiency": 0.4,
+    "collision_rate": 1.1612903150884497,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7692307642998029,
+    "spectral_efficiency": 0.3974358974358974,
+    "collision_rate": 1.1602564028188693,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7643312053227311,
+    "spectral_efficiency": 0.39490445859872614,
+    "collision_rate": 1.1656050881171651,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.759493666079154,
+    "spectral_efficiency": 0.3924050632911392,
+    "collision_rate": 1.1708860685386957,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7547169763854278,
+    "spectral_efficiency": 0.389937106918239,
+    "collision_rate": 1.169811313397413,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7499999953125001,
+    "spectral_efficiency": 0.3875,
+    "collision_rate": 1.17499999265625,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7453416102773813,
+    "spectral_efficiency": 0.38509316770186336,
+    "collision_rate": 1.1739130361868755,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7407407361682671,
+    "spectral_efficiency": 0.38271604938271603,
+    "collision_rate": 1.1790123384011584,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7361963145018631,
+    "spectral_efficiency": 0.3803680981595092,
+    "collision_rate": 1.1840490724904964,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7378048735499703,
+    "spectral_efficiency": 0.3800813008130081,
+    "collision_rate": 1.1829268220553242,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7393939349127641,
+    "spectral_efficiency": 0.3797979797979798,
+    "collision_rate": 1.1818181746556475,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999848484851,
+    "mmtc_throughput": 0.7349397546087967,
+    "spectral_efficiency": 0.37751004016064255,
+    "collision_rate": 1.1807228844534765,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999850746272,
+    "mmtc_throughput": 0.7365269416974435,
+    "spectral_efficiency": 0.37924151696606784,
+    "collision_rate": 1.173652687582918,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999850746272,
+    "mmtc_throughput": 0.732142852784864,
+    "spectral_efficiency": 0.376984126984127,
+    "collision_rate": 1.1726190406391723,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999850746272,
+    "mmtc_throughput": 0.7278106465810021,
+    "spectral_efficiency": 0.3747534516765286,
+    "collision_rate": 1.1715976262035643,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999850746272,
+    "mmtc_throughput": 0.7294117604152249,
+    "spectral_efficiency": 0.37450980392156863,
+    "collision_rate": 1.16470587550173,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999852941179,
+    "mmtc_throughput": 0.730994147771964,
+    "spectral_efficiency": 0.3762183235867446,
+    "collision_rate": 1.1578947300707911,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999855072467,
+    "mmtc_throughput": 0.7325581352758248,
+    "spectral_efficiency": 0.37790697674418605,
+    "collision_rate": 1.1511627840048675,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999857142859,
+    "mmtc_throughput": 0.7341040419993986,
+    "spectral_efficiency": 0.37957610789980734,
+    "collision_rate": 1.1445086639045743,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999859154932,
+    "mmtc_throughput": 0.7356321796802748,
+    "spectral_efficiency": 0.38122605363984674,
+    "collision_rate": 1.137931027942925,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999861111113,
+    "mmtc_throughput": 0.7371428529306123,
+    "spectral_efficiency": 0.38285714285714284,
+    "collision_rate": 1.1314285649632654,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999863013701,
+    "mmtc_throughput": 0.7386363594395662,
+    "spectral_efficiency": 0.38446969696969696,
+    "collision_rate": 1.1249999936079547,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999863013701,
+    "mmtc_throughput": 0.7401129901688531,
+    "spectral_efficiency": 0.384180790960452,
+    "collision_rate": 1.1242937789587921,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999864864867,
+    "mmtc_throughput": 0.7471910070382528,
+    "spectral_efficiency": 0.38764044943820225,
+    "collision_rate": 1.117977521809115,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999864864867,
+    "mmtc_throughput": 0.7430167556256048,
+    "spectral_efficiency": 0.3854748603351955,
+    "collision_rate": 1.1173184295121876,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999864864867,
+    "mmtc_throughput": 0.744444440308642,
+    "spectral_efficiency": 0.3851851851851852,
+    "collision_rate": 1.1111111049382716,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999866666669,
+    "mmtc_throughput": 0.740331487622478,
+    "spectral_efficiency": 0.3848987108655617,
+    "collision_rate": 1.110497231433717,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999868421054,
+    "mmtc_throughput": 0.747252743146963,
+    "spectral_efficiency": 0.3882783882783883,
+    "collision_rate": 1.1043955983274967,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999870129872,
+    "mmtc_throughput": 0.7431693948460689,
+    "spectral_efficiency": 0.3879781420765027,
+    "collision_rate": 1.1038251305801905,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999871794873,
+    "mmtc_throughput": 0.7391304307655955,
+    "spectral_efficiency": 0.38768115942028986,
+    "collision_rate": 1.1032608635692345,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999871794873,
+    "mmtc_throughput": 0.7405405365376188,
+    "spectral_efficiency": 0.38738738738738737,
+    "collision_rate": 1.1027026967421476,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999871794873,
+    "mmtc_throughput": 0.7365591358249509,
+    "spectral_efficiency": 0.38530465949820786,
+    "collision_rate": 1.1075268757659846,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999873417723,
+    "mmtc_throughput": 0.7379679104921503,
+    "spectral_efficiency": 0.3868092691622103,
+    "collision_rate": 1.1069518657382253,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999875000002,
+    "mmtc_throughput": 0.7340425492870077,
+    "spectral_efficiency": 0.38652482269503546,
+    "collision_rate": 1.1063829728383885,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999876543212,
+    "mmtc_throughput": 0.7301587262954565,
+    "spectral_efficiency": 0.3862433862433862,
+    "collision_rate": 1.1058200999692058,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999876543212,
+    "mmtc_throughput": 0.7263157856509695,
+    "spectral_efficiency": 0.38421052631578945,
+    "collision_rate": 1.1105263099445983,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999876543212,
+    "mmtc_throughput": 0.7225130852224446,
+    "spectral_efficiency": 0.38219895287958117,
+    "collision_rate": 1.1151832402346427,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999878048782,
+    "mmtc_throughput": 0.723958329562717,
+    "spectral_efficiency": 0.3836805555555556,
+    "collision_rate": 1.1145833275282118,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999878048782,
+    "mmtc_throughput": 0.7253885972777793,
+    "spectral_efficiency": 0.38341968911917096,
+    "collision_rate": 1.1139896315337325,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999878048782,
+    "mmtc_throughput": 0.7268041199649272,
+    "spectral_efficiency": 0.38316151202749144,
+    "collision_rate": 1.1134020561164844,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999878048782,
+    "mmtc_throughput": 0.7230769193688363,
+    "spectral_efficiency": 0.3811965811965812,
+    "collision_rate": 1.1179487122156477,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999878048782,
+    "mmtc_throughput": 0.7244897922219908,
+    "spectral_efficiency": 0.38095238095238093,
+    "collision_rate": 1.1173469330747605,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999879518074,
+    "mmtc_throughput": 0.7258883211883842,
+    "spectral_efficiency": 0.3824027072758037,
+    "collision_rate": 1.116751263366745,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999880952383,
+    "mmtc_throughput": 0.7272727235996327,
+    "spectral_efficiency": 0.3838383838383838,
+    "collision_rate": 1.1161616105244363,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999882352942,
+    "mmtc_throughput": 0.7286432124188783,
+    "spectral_efficiency": 0.3852596314907873,
+    "collision_rate": 1.1155778838413173,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999883720931,
+    "mmtc_throughput": 0.724999996375,
+    "spectral_efficiency": 0.385,
+    "collision_rate": 1.114999994425,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999885057473,
+    "mmtc_throughput": 0.7263681555902082,
+    "spectral_efficiency": 0.3864013266998342,
+    "collision_rate": 1.1144278551521003,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999886363637,
+    "mmtc_throughput": 0.7227722736496422,
+    "spectral_efficiency": 0.38613861386138615,
+    "collision_rate": 1.1138613806244486,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.7192118191171831,
+    "spectral_efficiency": 0.38587848932676516,
+    "collision_rate": 1.1133004871265986,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.7156862710015379,
+    "spectral_efficiency": 0.3839869281045752,
+    "collision_rate": 1.1176470533448675,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.712195118477097,
+    "spectral_efficiency": 0.3821138211382114,
+    "collision_rate": 1.1219512140392625,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.7087378606371949,
+    "spectral_efficiency": 0.3802588996763754,
+    "collision_rate": 1.1262135867659535,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.7053140062545217,
+    "spectral_efficiency": 0.3784219001610306,
+    "collision_rate": 1.1304347771476582,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.7019230735484467,
+    "spectral_efficiency": 0.3766025641025641,
+    "collision_rate": 1.134615379160503,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.6985645899590212,
+    "spectral_efficiency": 0.3748006379585327,
+    "collision_rate": 1.1387559754126508,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.6952380919274377,
+    "spectral_efficiency": 0.373015873015873,
+    "collision_rate": 1.142857137414966,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999887640451,
+    "mmtc_throughput": 0.691943124682734,
+    "spectral_efficiency": 0.3712480252764613,
+    "collision_rate": 1.1469194258439839,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999888888891,
+    "mmtc_throughput": 0.6933962231443574,
+    "spectral_efficiency": 0.37264150943396224,
+    "collision_rate": 1.1462264096876114,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999888888891,
+    "mmtc_throughput": 0.6995305131477441,
+    "spectral_efficiency": 0.37402190923317685,
+    "collision_rate": 1.140845065066455,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999888888891,
+    "mmtc_throughput": 0.7009345761638571,
+    "spectral_efficiency": 0.37383177570093457,
+    "collision_rate": 1.1401869105598743,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999888888891,
+    "mmtc_throughput": 0.7023255781287182,
+    "spectral_efficiency": 0.3736434108527132,
+    "collision_rate": 1.139534878420768,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.7037037004458162,
+    "spectral_efficiency": 0.375,
+    "collision_rate": 1.1388888836162552,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.7050691211747967,
+    "spectral_efficiency": 0.37480798771121354,
+    "collision_rate": 1.138248842680881,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.7018348591658952,
+    "spectral_efficiency": 0.3730886850152905,
+    "collision_rate": 1.1422018296229275,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.6986301337962094,
+    "spectral_efficiency": 0.3713850837138508,
+    "collision_rate": 1.1461187162277684,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.6954545422933884,
+    "spectral_efficiency": 0.3696969696969697,
+    "collision_rate": 1.1499999947727273,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999890109892,
+    "mmtc_throughput": 0.6923076891750783,
+    "spectral_efficiency": 0.3680241327300151,
+    "collision_rate": 1.1538461486251306,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6891891860847335,
+    "spectral_efficiency": 0.36936936936936937,
+    "collision_rate": 1.1531531479587696,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6950672614570975,
+    "spectral_efficiency": 0.37070254110612855,
+    "collision_rate": 1.1524663625449938,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6919642826251594,
+    "spectral_efficiency": 0.36904761904761907,
+    "collision_rate": 1.1562499948381697,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6888888858271606,
+    "spectral_efficiency": 0.3674074074074074,
+    "collision_rate": 1.1599999948444444,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6858407049299083,
+    "spectral_efficiency": 0.36578171091445427,
+    "collision_rate": 1.1637168090101027,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.682819380251897,
+    "spectral_efficiency": 0.3641703377386197,
+    "collision_rate": 1.1674008759145336,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6798245584218221,
+    "spectral_efficiency": 0.36257309941520466,
+    "collision_rate": 1.1710526264427517,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999892473119,
+    "mmtc_throughput": 0.6855895166568143,
+    "spectral_efficiency": 0.363901018922853,
+    "collision_rate": 1.1703056717453901,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999893617023,
+    "mmtc_throughput": 0.686956518752363,
+    "spectral_efficiency": 0.3652173913043478,
+    "collision_rate": 1.1695652123062381,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999893617023,
+    "mmtc_throughput": 0.6883116853319841,
+    "spectral_efficiency": 0.36507936507936506,
+    "collision_rate": 1.1688311637712936,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999895833335,
+    "mmtc_throughput": 0.6853448246321344,
+    "spectral_efficiency": 0.36637931034482757,
+    "collision_rate": 1.1681034432409334,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999896907218,
+    "mmtc_throughput": 0.686695276022767,
+    "spectral_efficiency": 0.3676680972818312,
+    "collision_rate": 1.167381969238704,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999897959185,
+    "mmtc_throughput": 0.688034185093871,
+    "spectral_efficiency": 0.36894586894586895,
+    "collision_rate": 1.1666666616809118,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999998989899,
+    "mmtc_throughput": 0.6893616991942055,
+    "spectral_efficiency": 0.3702127659574468,
+    "collision_rate": 1.1659574418469896,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999900000002,
+    "mmtc_throughput": 0.6906779631750933,
+    "spectral_efficiency": 0.3714689265536723,
+    "collision_rate": 1.1652542323506176,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999999009901,
+    "mmtc_throughput": 0.6877637101782123,
+    "spectral_efficiency": 0.37130801687763715,
+    "collision_rate": 1.1645569571115741,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999901960785,
+    "mmtc_throughput": 0.6848739467022104,
+    "spectral_efficiency": 0.3711484593837535,
+    "collision_rate": 1.1638655413282961,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999901960785,
+    "mmtc_throughput": 0.6820083653472453,
+    "spectral_efficiency": 0.3695955369595537,
+    "collision_rate": 1.1673640118520334,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999901960785,
+    "mmtc_throughput": 0.6791666638368056,
+    "spectral_efficiency": 0.3680555555555556,
+    "collision_rate": 1.170833328454861,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999901960785,
+    "mmtc_throughput": 0.6763485449114168,
+    "spectral_efficiency": 0.3665283540802213,
+    "collision_rate": 1.1742738540486561,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999902912623,
+    "mmtc_throughput": 0.677685947612868,
+    "spectral_efficiency": 0.3677685950413223,
+    "collision_rate": 1.173553714158869,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999904761906,
+    "mmtc_throughput": 0.6748971165642094,
+    "spectral_efficiency": 0.36899862825788754,
+    "collision_rate": 1.1728395013463395,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999906542058,
+    "mmtc_throughput": 0.6721311447863477,
+    "spectral_efficiency": 0.3702185792349727,
+    "collision_rate": 1.1721311427371675,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999908256881,
+    "mmtc_throughput": 0.6693877523698459,
+    "spectral_efficiency": 0.37142857142857144,
+    "collision_rate": 1.1714285666472304,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999990909091,
+    "mmtc_throughput": 0.6666666639566395,
+    "spectral_efficiency": 0.3712737127371274,
+    "collision_rate": 1.1707317025580013,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999909909911,
+    "mmtc_throughput": 0.6680161916274648,
+    "spectral_efficiency": 0.3724696356275304,
+    "collision_rate": 1.1700404810929534,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999910714287,
+    "mmtc_throughput": 0.669354836010666,
+    "spectral_efficiency": 0.3736559139784946,
+    "collision_rate": 1.169354833994537,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999911504426,
+    "mmtc_throughput": 0.6706827282301898,
+    "spectral_efficiency": 0.3748326639892905,
+    "collision_rate": 1.168674694101708,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999913043479,
+    "mmtc_throughput": 0.667999997328,
+    "spectral_efficiency": 0.376,
+    "collision_rate": 1.167999995328,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999913793104,
+    "mmtc_throughput": 0.6693227064967223,
+    "spectral_efficiency": 0.37715803452855245,
+    "collision_rate": 1.167330672640117,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999915254238,
+    "mmtc_throughput": 0.666666664021164,
+    "spectral_efficiency": 0.3783068783068783,
+    "collision_rate": 1.1666666620370372,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999915966388,
+    "mmtc_throughput": 0.6679841870830665,
+    "spectral_efficiency": 0.3794466403162055,
+    "collision_rate": 1.1660079005296131,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999916666668,
+    "mmtc_throughput": 0.6692913359476719,
+    "spectral_efficiency": 0.3805774278215223,
+    "collision_rate": 1.1653543261206523,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999916666668,
+    "mmtc_throughput": 0.6705882326643599,
+    "spectral_efficiency": 0.3803921568627451,
+    "collision_rate": 1.164705877785467,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6718749973754883,
+    "spectral_efficiency": 0.3815104166666667,
+    "collision_rate": 1.1640624954528809,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6731517483534951,
+    "spectral_efficiency": 0.38132295719844356,
+    "collision_rate": 1.1634241199866766,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6705426330599122,
+    "spectral_efficiency": 0.3798449612403101,
+    "collision_rate": 1.1666666621447028,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6756756730668892,
+    "spectral_efficiency": 0.38095238095238093,
+    "collision_rate": 1.166023161521146,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6807692281508876,
+    "spectral_efficiency": 0.382051282051282,
+    "collision_rate": 1.165384610902367,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999917355373,
+    "mmtc_throughput": 0.6781609169419122,
+    "spectral_efficiency": 0.38058748403575987,
+    "collision_rate": 1.1685823710016001,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999918032788,
+    "mmtc_throughput": 0.6793893103840103,
+    "spectral_efficiency": 0.3816793893129771,
+    "collision_rate": 1.1679389268399278,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999918032788,
+    "mmtc_throughput": 0.6806083624311469,
+    "spectral_efficiency": 0.38149556400506973,
+    "collision_rate": 1.1673003757897324,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999918032788,
+    "mmtc_throughput": 0.6818181792355372,
+    "spectral_efficiency": 0.3813131313131313,
+    "collision_rate": 1.1666666622474748,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999918699188,
+    "mmtc_throughput": 0.6792452804556782,
+    "spectral_efficiency": 0.38113207547169814,
+    "collision_rate": 1.1660377314489143,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999920000001,
+    "mmtc_throughput": 0.6766917267793544,
+    "spectral_efficiency": 0.38220551378446116,
+    "collision_rate": 1.1654135294533325,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999920000001,
+    "mmtc_throughput": 0.6741573008458528,
+    "spectral_efficiency": 0.3807740324594257,
+    "collision_rate": 1.1685393214661448,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999920634921,
+    "mmtc_throughput": 0.6753731318083093,
+    "spectral_efficiency": 0.3818407960199005,
+    "collision_rate": 1.1679104434033192,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999920634921,
+    "mmtc_throughput": 0.6728624510302511,
+    "spectral_efficiency": 0.38042131350681535,
+    "collision_rate": 1.1710037131189452,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6740740715775034,
+    "spectral_efficiency": 0.3814814814814815,
+    "collision_rate": 1.1703703660356652,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6715867133889789,
+    "spectral_efficiency": 0.3800738007380074,
+    "collision_rate": 1.1734317299873367,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6764705857482699,
+    "spectral_efficiency": 0.38112745098039214,
+    "collision_rate": 1.1727941133353157,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6776556751734224,
+    "spectral_efficiency": 0.38095238095238093,
+    "collision_rate": 1.1721611678675414,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6751824792876552,
+    "spectral_efficiency": 0.3795620437956204,
+    "collision_rate": 1.1715328424396612,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921259843,
+    "mmtc_throughput": 0.6763636339041322,
+    "spectral_efficiency": 0.3793939393939394,
+    "collision_rate": 1.1709090866512397,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999921875001,
+    "mmtc_throughput": 0.6775362294292165,
+    "spectral_efficiency": 0.3804347826086957,
+    "collision_rate": 1.1702898508322832,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999923076924,
+    "mmtc_throughput": 0.6750902502704323,
+    "spectral_efficiency": 0.381468110709988,
+    "collision_rate": 1.1696750860300538,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999923664122,
+    "mmtc_throughput": 0.676258990373169,
+    "spectral_efficiency": 0.3824940047961631,
+    "collision_rate": 1.1690647439961699,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999924242425,
+    "mmtc_throughput": 0.673835123032849,
+    "spectral_efficiency": 0.3823178016726404,
+    "collision_rate": 1.168458777173983,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999924242425,
+    "mmtc_throughput": 0.6749999975892857,
+    "spectral_efficiency": 0.3821428571428571,
+    "collision_rate": 1.1678571386862244,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999925373135,
+    "mmtc_throughput": 0.6725978623750966,
+    "spectral_efficiency": 0.3831553973902728,
+    "collision_rate": 1.167259782322919,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999925925926,
+    "mmtc_throughput": 0.6737588628590111,
+    "spectral_efficiency": 0.38416075650118203,
+    "collision_rate": 1.1666666625295508,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999926470589,
+    "mmtc_throughput": 0.6749116583925383,
+    "spectral_efficiency": 0.38515901060070673,
+    "collision_rate": 1.1660777343954851,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.99999999270073,
+    "mmtc_throughput": 0.676056335647689,
+    "spectral_efficiency": 0.38615023474178406,
+    "collision_rate": 1.1654929536426304,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999927536233,
+    "mmtc_throughput": 0.6771929800800246,
+    "spectral_efficiency": 0.3871345029239766,
+    "collision_rate": 1.164912276614343,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999928057555,
+    "mmtc_throughput": 0.6783216759499242,
+    "spectral_efficiency": 0.3881118881118881,
+    "collision_rate": 1.1643356602645607,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999929078015,
+    "mmtc_throughput": 0.6759581857980551,
+    "spectral_efficiency": 0.389082462253194,
+    "collision_rate": 1.163763062147167,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993006993,
+    "mmtc_throughput": 0.6736111087721837,
+    "spectral_efficiency": 0.3900462962962963,
+    "collision_rate": 1.163194440405575,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993006993,
+    "mmtc_throughput": 0.6782006896948073,
+    "spectral_efficiency": 0.39100346020761245,
+    "collision_rate": 1.1626297537625268,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999930555556,
+    "mmtc_throughput": 0.6793103424851368,
+    "spectral_efficiency": 0.39195402298850573,
+    "collision_rate": 1.162068961510107,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999931034483,
+    "mmtc_throughput": 0.6804123687958338,
+    "spectral_efficiency": 0.3928980526918671,
+    "collision_rate": 1.1615120234999587,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993150685,
+    "mmtc_throughput": 0.6780821894586226,
+    "spectral_efficiency": 0.3926940639269406,
+    "collision_rate": 1.1609589001337024,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993197279,
+    "mmtc_throughput": 0.6757679157823621,
+    "spectral_efficiency": 0.3924914675767918,
+    "collision_rate": 1.160409552353551,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993197279,
+    "mmtc_throughput": 0.6734693854643898,
+    "spectral_efficiency": 0.391156462585034,
+    "collision_rate": 1.1632653021657642,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.999999993197279,
+    "mmtc_throughput": 0.6711864384027578,
+    "spectral_efficiency": 0.3898305084745763,
+    "collision_rate": 1.1661016909623672,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999932432433,
+    "mmtc_throughput": 0.6722972950260226,
+    "spectral_efficiency": 0.39076576576576577,
+    "collision_rate": 1.1655405366029037,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999932885907,
+    "mmtc_throughput": 0.6734006711333311,
+    "spectral_efficiency": 0.39169472502805835,
+    "collision_rate": 1.1649831610606627,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999932885907,
+    "mmtc_throughput": 0.6711409373451647,
+    "spectral_efficiency": 0.39038031319910516,
+    "collision_rate": 1.1677852309805865,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999933333334,
+    "mmtc_throughput": 0.6688963188331227,
+    "spectral_efficiency": 0.39018952062430323,
+    "collision_rate": 1.167224076363799,
+    "TimeLimit.truncated": false
+  },
+  {
+    "urllc_success_rate": 0.9999999934210527,
+    "mmtc_throughput": 0.6666666644444444,
+    "spectral_efficiency": 0.39111111111111113,
+    "collision_rate": 1.1666666627777778,
+    "TimeLimit.truncated": true,
+    "terminal_observation": 

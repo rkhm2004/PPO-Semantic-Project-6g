@@ -1,0 +1,9 @@
+agent	env	source	key_path	length	variance
+multi	Real	infos	t	400	13333.25
+multi	Real	infos	successes	400	0.5141
+multi	Real	infos	waste_inactive_assignments	400	0.5141
+multi	Real	infos	colliding_channels	400	0.0
+single	Real	infos	collision_rate	300	0.011953231281655987
+single	Real	infos	spectral_efficiency	300	0.00870361046125794
+single	Real	infos	mmtc_throughput	300	0.006134896227592004
+single	Real	infos	urllc_success_rate	300	7.953842932643314e-15

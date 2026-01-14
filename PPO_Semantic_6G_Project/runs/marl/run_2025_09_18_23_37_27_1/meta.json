@@ -1,0 +1,6 @@
+{
+  "num_channels": 3,
+  "state_path": "data/real/real_initial_states.csv",
+  "semantic_path": "data/real/real_semantic_segments.csv",
+  "traffic_path": "data/real/real_traffic_model.csv"
+}

@@ -1,0 +1,7 @@
+ue_id,traffic_type,priority,active,d2lt
+0,URLLC,9,True,0
+1,URLLC,9,True,0
+2,mMTC,3,True,0
+3,mMTC,3,True,0
+4,mMTC,3,True,0
+5,mMTC,3,True,0

@@ -1,0 +1,7 @@
+ue_id,ue_type,x_pos,y_pos,traffic_type,priority,data_size
+0,device,150,230,URLLC,9,128
+1,device,320,450,mMTC,3,64
+2,device,200,300,mMTC,2,32
+3,device,180,120,URLLC,8,256
+4,device,250,350,URLLC,7,192
+5,device,400,100,mMTC,3,48
